@@ -436,7 +436,7 @@ The customer dashboard provides access to AI support, support tickets, and feedb
 
 Customers can communicate with the AI support assistant and receive intelligent responses.
 
-![AI Support](screenshots/ai_support.png)
+![AI Support](screenshots/ai_support_chat.png)
 
 ---
 
