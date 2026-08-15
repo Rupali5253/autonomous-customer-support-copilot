@@ -1,0 +1,347 @@
+NovaCart
+ Customer Support & Escalation Policy
+ Ticket creation, priority, normal conversation and human escalation rules
+Document Type
+Customer & Support Knowledge Base Policy
+Version
+1.0
+Status
+Active for Autonomous Customer Support Copilot Demo
+Supported Region
+India
+Support Email
+support@novacart.example
+1. Purpose
+This policy defines how NovaCart customer support should handle normal conversations, support issues, ticket
+creation, priority classification, and human escalation.
+Its most important rule is that a normal conversation must not automatically generate a ticket. Tickets are created
+when a customer has a support issue that requires tracking, investigation, action, or human involvement.
+2. Normal Conversation vs Support Issue
+A normal conversation includes greetings, casual questions, general product information, and simple policy
+explanations that can be answered from the knowledge base.
+Examples:
+ “Hello.”
+ 
+ “How are you?”
+ 
+ “What does shipped mean?”
+ 
+ “How can I return an eligible product?”
+ 
+These should normally return an answer with ticket_created = false.
+A support issue is a problem requiring investigation, an action, a transaction check, or case tracking. These may
+create a ticket.
+3. Ticket Creation Principle
+The system should first detect intent and determine whether a ticket is required.
+Conceptually:
+ Detect intent.
+ 
+ Determine whether the message is a support issue.
+ 
+ If no ticket is required, answer normally.
+ 
+ If a ticket is required, determine priority.
+ 
+ Create the ticket with the detected intent, priority, description, and customer reference.
+ 
+ Escalate to a human when the issue requires investigation or authority beyond the AI assistant.
+ 
+4. Ticket Should NOT Be Created For Normal Chat
+The Copilot must avoid unnecessary ticket creation.
+No ticket should normally be created for:
+ Greetings.
+ 
+ Thank-you messages.
+ 
+ Casual conversation.
+ 
+ General FAQs.
+ 
+ Simple policy explanations.
+ 
+ Basic product information.
+ 
+ Basic order-status explanations when no investigation is required.
+ 
+Example:
+Customer: “Hello, how are you?”
+Expected: Friendly response, ticket_created = false.
+5. Support Issue Categories
+Common support intents include:
+ Payment issue.
+ 
+ Refund issue.
+ 
+ Return issue.
+ 
+ Cancellation issue.
+ 
+ Shipping or delivery issue.
+ 
+ Product/order issue.
+ 
+ Account issue.
+ 
+ Complaint.
+ 
+ Technical support issue.
+ 
+ Other issue requiring investigation.
+ 
+The intent should represent the primary customer problem rather than simply repeating a keyword from the
+message.
+6. Priority Classification
+Priority should normally be determined by the system using the intent, severity, customer impact, urgency, and
+available evidence.
+Recommended levels:
+ Low — informational or minor issue with little immediate impact.
+ 
+ Medium — issue requires action or investigation but is not critical.
+ 
+ High — significant financial, order, delivery, or customer-impact issue requiring timely attention.
+ 
+ Critical — severe security, widespread service, or urgent risk requiring immediate human attention.
+ 
+The customer does not need to manually select the priority in normal operation.
+7. Low Priority Examples
+Typical low-priority cases include:
+ General product questions.
+ 
+ Non-urgent information requests.
+ 
+ Basic policy clarification.
+ 
+ Minor questions with no transaction impact.
+ 
+These may not require a ticket at all if they can be resolved directly.
+8. Medium Priority Examples
+Typical medium-priority cases include:
+ Order modification requiring verification.
+ 
+ Delayed delivery that needs investigation.
+ 
+ Return eligibility dispute.
+ 
+ Non-urgent product issue.
+ 
+ Account issue without immediate security risk.
+ 
+The final priority should depend on the actual impact and available information.
+9. High Priority Examples
+Typical high-priority cases include:
+ Payment deducted but order not confirmed.
+ 
+ Refund expected but unresolved after the applicable process.
+ 
+ Significant delivery failure involving a paid order.
+ 
+ Repeated failed resolution attempts.
+ 
+ Serious customer-impacting order issue.
+ 
+Example:
+Customer: “My payment was deducted but my order was not confirmed.”
+Expected intent: payment_issue.
+Expected handling: create a ticket when transaction verification is required and assign high priority.
+10. Critical Escalation
+Critical escalation should be reserved for situations such as:
+ Suspected account takeover or serious security compromise.
+ 
+ Widespread system failures affecting many customers.
+ 
+ Severe safety concerns.
+ 
+ Other situations requiring immediate authorized human intervention.
+ 
+The AI assistant should not label a case critical merely because the customer is angry.
+11. Payment Issues
+Payment issues may include:
+ Payment deducted but order not confirmed.
+ 
+ Payment failed after money appears to be deducted.
+ 
+ Duplicate payment.
+ 
+ Incorrect payment status.
+ 
+ Payment reconciliation problem.
+ 
+The assistant should collect appropriate non-sensitive transaction information and escalate when system verification
+is required.
+Never request passwords, OTPs, PINs, or full confidential payment credentials.
+12. Refund Issues
+Refund issues may include:
+ Refund not received.
+ 
+ Refund status unclear.
+ 
+ Refund amount disputed.
+ 
+ Refund initiated but not completed.
+ 
+ Customer disputes refund eligibility.
+ 
+The assistant should distinguish between “refund requested,” “refund initiated,” and “refund completed.” It should
+never claim that a refund is complete without verified information.
+13. Return Issues
+Return-related escalation may include:
+ Return request rejected.
+ 
+ Damaged product requiring evidence review.
+ 
+ Wrong product received.
+ 
+ Return pickup failure.
+ 
+ Return inspection dispute.
+ 
+ Customer disputes return eligibility.
+ 
+Simple return-policy questions can be answered without creating a ticket.
+14. Delivery Issues
+Delivery escalation may include:
+ Package marked delivered but not received.
+ 
+ Shipment appears lost.
+ 
+ Tracking has stopped progressing.
+ 
+ Wrong delivery location.
+ 
+ Repeated failed delivery attempts.
+ 
+ Damaged shipment requiring investigation.
+ 
+Simple tracking questions should normally not create a ticket.
+15. Account and Security Issues
+Account issues may include login problems, missing orders, suspicious account activity, or unauthorized access
+concerns.
+Security-related issues should be escalated when identity verification, account recovery, or security investigation is
+required.
+The AI assistant must never request confidential authentication secrets.
+16. Angry or Frustrated Customers
+Customer emotion alone should not automatically determine ticket priority.
+For example:
+Customer: “This is so frustrating! How do I track my order?”
+Expected handling: Answer the tracking question; do not create a ticket merely because the customer is frustrated.
+However, if the customer is frustrated because a serious unresolved issue exists, the underlying issue should
+determine the priority and escalation path.
+17. Missing Information
+If required information is missing, the assistant should ask concise follow-up questions instead of guessing.
+For example, for a payment issue the assistant may request an order number or transaction reference.
+The assistant should request only information necessary to resolve the issue and should avoid sensitive credentials.
+18. AI Must Not Guess
+The Copilot must not invent:
+ Refund status.
+ 
+ Order confirmation.
+ 
+ Delivery date.
+ 
+ Restock date.
+ 
+ Policy exceptions.
+ 
+ Payment success.
+ 
+ Internal investigation results.
+ 
+ Human-agent decisions.
+ 
+When approved knowledge or system data is insufficient, the assistant should clearly state the limitation and
+escalate when appropriate.
+19. Ticket Information
+A ticket should contain useful structured information such as:
+ Customer ID.
+ 
+ Intent.
+ 
+ Subject.
+ 
+ Customer message/description.
+ 
+ Priority.
+ 
+ Status.
+ 
+ Creation timestamp.
+ 
+ Escalation reason when applicable.
+ 
+The ticket should contain enough information for a human agent to understand the issue without requiring the
+customer to repeat everything unnecessarily.
+20. Ticket Status
+Recommended ticket statuses include:
+ Open — issue has been created and requires attention.
+ 
+ In Progress — an agent or system is actively working on it.
+ 
+ Waiting for Customer — additional customer information is required.
+ 
+ Resolved — issue has been resolved.
+ 
+ Closed — ticket is completed and no further action is expected.
+ 
+The exact implementation may vary according to the application's database model.
+21. Human Escalation Rules
+Human escalation is appropriate when:
+ Internal records must be checked.
+ 
+ A financial transaction requires reconciliation.
+ 
+ A policy exception is requested.
+ 
+ The customer disputes an automated decision.
+ 
+ A security issue requires verification.
+ 
+ The AI cannot confidently determine the correct resolution.
+ 
+ Multiple systems show conflicting information.
+ 
+ The issue has significant customer impact.
+ 
+22. Resolution Without Ticket
+The Copilot should prefer direct resolution when the answer is available in the approved knowledge base and no
+system action is required.
+Examples:
+Customer: “What is your return window?”
+Expected: Explain the approved return window. No ticket.
+Customer: “Can I cancel before shipment?”
+
+Expected: Explain the cancellation policy. No ticket unless the customer asks for an actual cancellation requiring
+order action.
+23. Examples
+Example 1 — Normal chat:
+Customer: “Hello.”
+Expected: Friendly response; no ticket.
+Example 2 — General FAQ:
+Customer: “What is your return policy?”
+Expected: Retrieve the Return Policy and answer; no ticket.
+Example 3 — Payment problem:
+Customer: “My payment was deducted but my order was not confirmed.”
+Expected: payment_issue, high priority, ticket creation when verification is required.
+Example 4 — Delivery delay:
+Customer: “My order is two days late and tracking hasn't changed.”
+Expected: shipping/delivery issue, medium or high priority depending on impact and system evidence, ticket if
+investigation is required.
+Example 5 — Angry but informational:
+Customer: “I'm really annoyed! What does ‘shipped’ mean?”
+Expected: Explain the status; no ticket.
+24. Final Decision Rule
+The Copilot should follow this sequence:
+1. Understand the customer's message.
+2. Detect the primary intent.
+3. Decide whether it is normal conversation or a support issue.
+4. If normal conversation, answer without creating a ticket.
+5. If it is a support issue, determine severity and priority.
+6. Create a ticket when tracking or investigation is required.
+7. Escalate to a human when the AI lacks authority, information, or confidence.
+8. Never invent an outcome or promise an unsupported resolution.
+25. Policy Authority
+This document is the authoritative source for general customer-support ticket and escalation behavior in the
+NovaCart Autonomous Customer Support Copilot.
+Specialized policies such as Payment, Refund, Return, Cancellation, Shipping & Delivery, and Product & Order
+should be retrieved for issue-specific answers.
+
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

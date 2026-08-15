@@ -1,0 +1,307 @@
+NovaCart
+ Product & Order Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Product information, availability and order management
+Applies To
+NovaCart products and customer orders
+Order Confirmation
+Provided after successful order validation and applicable payment processing
+Supported Region
+India
+Support Email
+support@novacart.example
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+1. Purpose
+This Product & Order Policy defines the general rules for product information, availability, pricing, order placement,
+order confirmation, order status, and common order-related customer questions.
+This document is designed to provide consistent customer guidance and to serve as an authoritative knowledge
+source for the Autonomous Customer Support Copilot.
+2. Product Information
+NovaCart product listings may contain information such as:
+ Product name and description.
+ 
+ Product category.
+ 
+ Available variants such as size, color, model, or capacity.
+ 
+ Product specifications.
+ 
+ Images and product highlights.
+ 
+ Price and applicable offers.
+ 
+ Availability or stock status.
+ 
+ Delivery information.
+ 
+Customers should rely on the latest product listing for the current product details. If product information appears
+inconsistent, the issue may require review rather than an assumed answer.
+3. Product Availability and Stock
+Product availability can change based on inventory and order demand.
+Common stock states include:
+ In stock — the product is currently available for ordering.
+ 
+ Limited stock — availability is low and may change quickly.
+ 
+ Out of stock — the product cannot currently be ordered.
+ 
+ Temporarily unavailable — the product may return later.
+ 
+ Discontinued — the product is no longer expected to be available.
+ 
+The AI assistant should not promise that an out-of-stock product will be restocked unless an approved source
+provides that information.
+4. Product Variants
+Some products are available in multiple variants. Customers should select the required variant before placing an
+order.
+Examples include:
+ Size.
+ 
+ Color.
+ 
+ Model.
+ 
+ Storage capacity.
+ 
+ Pack quantity.
+ 
+ Configuration.
+ 
+Availability and price can differ between variants. The assistant should answer based on the selected variant when
+that information is available.
+5. Product Pricing
+The product price displayed at the time of checkout is the relevant price for the order, subject to applicable taxes,
+shipping charges, discounts, and other clearly displayed conditions.
+Prices may change over time. The AI assistant should not guarantee that a previous price will remain available for a
+future order unless the applicable offer explicitly provides such a guarantee.
+6. Discounts and Promotional Offers
+Promotional offers may have conditions such as:
+ Minimum order value.
+ 
+ Eligible products or categories.
+ 
+ Validity period.
+ 
+ Customer eligibility.
+ 
+ Maximum discount.
+ 
+ Coupon or promotional code requirements.
+ 
+ Payment-method restrictions.
+ 
+The assistant should explain only the conditions supported by the available offer information and should not invent
+discount eligibility.
+7. Order Placement
+A customer can generally place an order by:
+
+1. Selecting an available product and required variant.
+2. Adding the product to the cart.
+3. Reviewing the cart.
+4. Providing or selecting the delivery address.
+5. Selecting an available payment method.
+6. Reviewing the order summary.
+7. Confirming the order.
+An order is not necessarily confirmed merely because the customer reached the payment stage. The final order
+status should be checked.
+8. Order Confirmation
+An order should be treated as confirmed only when NovaCart records a successful order confirmation.
+Customers may receive an order confirmation through the application, email, or another supported notification
+channel.
+If payment appears successful but no order confirmation is available, the customer should not be told that the order
+definitely exists. Payment and order records may need to be reconciled.
+9. Payment Successful but Order Not Confirmed
+If a customer reports that money was deducted but the order was not confirmed, the issue should be handled as a
+payment/order reconciliation case.
+The assistant may request:
+ Order information, if any.
+ 
+ Transaction or payment reference.
+ 
+ Payment amount.
+ 
+ Approximate payment time.
+ 
+ Available payment receipt.
+ 
+The assistant should not promise an order confirmation or refund before the transaction status is verified. A ticket
+may be created when system-level investigation is required.
+10. Order Statuses
+Typical order statuses include:
+ Pending — order creation or payment processing is not yet complete.
+ 
+ Confirmed — order has been successfully accepted.
+ 
+ Processing — order is being prepared.
+ 
+ Packed — product has been prepared for shipment.
+ 
+ Shipped — order has been handed to the delivery partner.
+ 
+ Out for delivery — delivery is in progress.
+ 
+ Delivered — delivery has been recorded as completed.
+ 
+ Cancelled — order was cancelled.
+ 
+ Return requested — a return process has been initiated.
+ 
+ Refunded — an eligible refund has been completed according to the applicable refund process.
+ 
+Actual status names may vary by system implementation.
+11. Order Modification
+Customers may request changes to an order such as quantity, variant, or delivery address.
+Modification availability depends on the current order stage. Changes are generally easier before processing or
+shipment begins.
+Once an order has entered a non-modifiable stage, the customer may need to cancel and place a new order if
+cancellation is still available, or use the applicable return process after delivery.
+12. Quantity Limits
+Certain products or promotional offers may have purchase limits.
+A quantity limit may be applied because of:
+ Limited inventory.
+ 
+ Promotional conditions.
+ 
+ Product restrictions.
+ 
+ Operational requirements.
+ 
+ Fraud or abuse prevention.
+ 
+The assistant should not advise customers to bypass a quantity limit.
+13. Out-of-Stock Products
+If a product is out of stock, customers may need to wait until inventory becomes available or choose an alternative
+product.
+The assistant may suggest checking:
+ Product availability later.
+ 
+ Other available variants.
+ 
+ Similar products.
+ 
+ Approved restock notifications, if supported.
+ 
+The assistant should not provide an invented restock date.
+14. Duplicate Orders
+If a customer accidentally places the same order multiple times, the customer should identify the relevant order
+numbers.
+Support should verify the status of each order. If an order is still cancellable, the Cancellation Policy applies. If a
+duplicate order has already shipped, the customer may need to use the Return Policy after delivery, if eligible.
+15. Incorrect Product Information
+If a customer believes the product listing contains incorrect information, the issue should be reported with the
+relevant product name or identifier and a description of the discrepancy.
+
+The assistant should not override official product information based only on an unsupported customer assumption.
+When a listing appears inconsistent across systems, the case should be escalated for verification.
+16. Product Not as Expected
+If a customer receives a product that differs materially from the product description, selected variant, or ordered
+item, the case may qualify for return or replacement under the Return Policy.
+Customers may be asked for order details and appropriate evidence such as photographs or product identifiers.
+17. Pre-Order or Temporarily Unavailable Products
+Some products may be offered as pre-orders or may temporarily be unavailable for immediate shipment.
+When a product has a specific availability or dispatch date, that information should be used when responding to
+customer questions.
+The AI assistant should not convert an estimated or tentative date into a guaranteed delivery promise unless the
+product terms explicitly provide a guarantee.
+18. Order History
+Customers may generally view their previous orders through their account.
+Order history can help customers locate:
+ Order numbers.
+ 
+ Products purchased.
+ 
+ Order dates.
+ 
+ Order status.
+ 
+ Payment or refund references when supported.
+ 
+ Delivery and return information.
+ 
+If an order is missing from the account despite evidence that it was placed, the issue may require account or
+order-system investigation.
+19. Customer Questions That Do Not Require a Ticket
+Simple informational questions should normally be answered directly using the knowledge base.
+Examples:
+ “How do I place an order?”
+ 
+ “What does ‘shipped’ mean?”
+ 
+ “What does out of stock mean?”
+ 
+ “Can I change my order before it ships?”
+ 
+ “Where can I see my order history?”
+ 
+The Copilot should not create a support ticket merely because a customer asks a normal informational question.
+20. Order Issues That May Require a Ticket
+A ticket or human escalation may be appropriate when:
+ Payment was deducted but no order was created.
+ 
+ Order status is inconsistent or unavailable.
+ 
+ A confirmed order disappeared from the customer's account.
+ 
+ A customer disputes the product, quantity, or variant received.
+ 
+ A modification cannot be completed automatically.
+ 
+ A duplicate order requires investigation.
+ 
+ Product information conflicts across internal sources.
+ 
+ The issue requires access to internal order or inventory records.
+ 
+21. Information Required for Order Support
+Support may request non-sensitive information such as:
+ Order number.
+ 
+ Product name or identifier.
+ 
+ Selected variant.
+ 
+ Approximate order date.
+ 
+ Description of the issue.
+ 
+ Transaction reference when a payment issue is involved.
+ 
+Customers should never provide passwords, OTPs, PINs, or confidential payment credentials.
+22. Examples
+Example 1 — General order question:
+Customer: “How do I place an order?”
+Expected handling: Explain the order-placement process. No ticket should be created.
+Example 2 — Order status:
+Customer: “What does shipped mean?”
+Expected handling: Explain that the order has been handed to the delivery partner and provide tracking guidance
+when available. No ticket is normally required.
+Example 3 — Payment deducted:
+Customer: “My payment was deducted but I didn't get an order.”
+Expected handling: Classify as a payment/order issue, request appropriate transaction information, and create a
+ticket if system verification is required.
+Example 4 — Out of stock:
+Customer: “When will this product be back?”
+Expected handling: Provide an approved restock date only if available. Otherwise explain that no confirmed restock
+date is available.
+Example 5 — Wrong variant:
+Customer: “I ordered size M but received size L.”
+Expected handling: Treat as an order/product issue and guide the customer to the applicable return or replacement
+process; create/escalate a ticket when verification is needed.
+
+23. Relationship With Other Policies
+This Product & Order Policy works together with the Payment Policy, Cancellation Policy, Shipping & Delivery
+Policy, Return Policy, and Refund Policy.
+Product and order questions should first be classified correctly. Payment-specific problems follow the Payment
+Policy. Cancellation follows the Cancellation Policy. Shipment and delivery issues follow the Shipping & Delivery
+Policy. Product returns follow the Return Policy, and approved refunds follow the Refund Policy.
+24. Policy Authority
+This document is the authoritative general product and order source for the NovaCart customer-support knowledge
+base.
+The Autonomous Customer Support Copilot should use current order information together with this policy whenever
+available. If the required order or product information cannot be verified, the AI assistant should state the limitation
+and escalate when human investigation is necessary.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

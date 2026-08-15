@@ -1,0 +1,382 @@
+NovaCart
+ Customer Support Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Support Channel
+AI Copilot, customer support team and ticket system
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+Response Goal
+Provide accurate, concise and policy-supported assistance
+Ticket Rule
+Normal conversation and simple FAQs do not normally create tickets
+Human Support
+Available when investigation, verification or authorized action is required
+Support Email
+support@novacart.example
+1. Purpose
+This Customer Support Policy defines how NovaCart should provide customer assistance through the Autonomous
+Customer Support Copilot and human support team.
+The goal is to resolve customer questions accurately, avoid unnecessary tickets, collect only necessary information,
+and escalate issues when human investigation or authorized action is required.
+2. Support Philosophy
+NovaCart support should be:
+ Customer-focused.
+ 
+ Accurate and policy-based.
+ 
+ Clear and easy to understand.
+ 
+ Respectful and professional.
+ 
+ Transparent about limitations.
+ 
+ Secure when handling customer information.
+ 
+ Consistent across AI and human support channels.
+ 
+3. AI First-Line Support
+The Autonomous Customer Support Copilot acts as the first-line support assistant for common customer questions.
+It may explain approved policies, answer FAQs, classify intent, provide troubleshooting guidance, collect limited
+non-sensitive information, and create tickets when an issue requires tracking or investigation.
+4. Normal Conversation
+Normal conversation should generally be answered directly without creating a ticket.
+Examples:
+
+ “Hello.”
+ 
+ “Thank you.”
+ 
+ “How are you?”
+ 
+ “What does shipped mean?”
+ 
+ “What are your return rules?”
+ 
+Expected behavior: provide a helpful response and return ticket_created = false.
+5. General FAQ Handling
+If the customer's question can be answered confidently from the approved knowledge base, the assistant should
+answer it directly.
+Examples include:
+ Return window.
+ 
+ Refund process.
+ 
+ Cancellation rules.
+ 
+ Shipping information.
+ 
+ Coupon conditions.
+ 
+ Password-reset guidance.
+ 
+ General order information.
+ 
+6. Support Issue Handling
+A support issue is a customer problem that may require investigation, system verification, action, or case tracking.
+Examples include:
+ Payment deducted but order not confirmed.
+ 
+ Refund not received.
+ 
+ Wrong product received.
+ 
+ Package marked delivered but not received.
+ 
+ Account appears compromised.
+ 
+ Coupon was accepted but discount was incorrect.
+ 
+These cases may require ticket creation and/or human escalation.
+7. Intent Detection
+The support system should identify the customer's primary intent before deciding the response path.
+Possible intents include:
+ general_chat
+ 
+ product_order
+ 
+ payment_issue
+ 
+ refund_issue
+ 
+ return_issue
+ 
+ cancellation_issue
+ 
+ shipping_issue
+ 
+ account_issue
+ 
+ coupon_issue
+ 
+ complaint
+ 
+ technical_issue
+ 
+ other_support_issue
+ 
+The intent should represent the customer's actual problem rather than simply matching one keyword.
+8. Ticket Creation Rule
+The support system should not create a ticket for every customer message.
+Recommended decision:
+1. Understand the message.
+2. Detect the primary intent.
+3. Decide whether the question is informational or requires support action.
+4. If informational, answer without a ticket.
+5. If investigation/action is required, create a ticket.
+6. Escalate to a human when necessary.
+9. Ticket Information
+When a ticket is created, it should contain useful information such as:
+ Customer ID.
+ 
+ Intent.
+ 
+ Subject.
+ 
+ Original customer message.
+ 
+ Priority.
+ 
+ Status.
+ 
+ Creation timestamp.
+ 
+ Escalation reason where applicable.
+ 
+The ticket should be understandable to a human support agent without unnecessarily asking the customer to repeat
+information.
+10. Priority Levels
+NovaCart may use four priority levels:
+ Low — informational or minor issue with limited impact.
+ 
+ Medium — issue requires action but is not urgent.
+ 
+ High — significant customer or financial impact requiring timely attention.
+ 
+ Critical — severe security, safety, widespread service, or urgent operational risk requiring immediate human
+ intervention.
+Priority should be based on the underlying issue, not only on the customer's emotional tone.
+11. Customer Information
+The assistant should request only information necessary to resolve the issue.
+Useful non-sensitive information may include:
+ Order number.
+ 
+ Registered email address.
+ 
+ Transaction reference.
+ 
+ Product name.
+ 
+ Delivery details relevant to the case.
+ 
+ Description of the problem.
+ 
+ Screenshot of an error or receipt when appropriate.
+ 
+The assistant must never request passwords, OTPs, PINs, or complete confidential payment credentials.
+12. Payment Support
+For payment problems, the assistant may ask for an order number or transaction reference and explain the
+approved payment process.
+If payment was deducted but the order is not confirmed, the assistant should not claim that the order is confirmed or
+that a refund has already been processed without verified information.
+Payment reconciliation cases should be ticketed or escalated when system investigation is required.
+13. Refund Support
+The assistant should distinguish between:
+ Refund requested.
+ 
+ Refund approved.
+ 
+ Refund initiated.
+ 
+ Refund completed.
+ 
+It must not use these states interchangeably and must not promise a refund date unless supported by approved
+information or system data.
+14. Return Support
+Simple return-policy questions can be answered directly.
+When a customer reports a specific return problem, such as a rejected return, damaged product, failed pickup, or
+wrong product, the assistant should collect relevant information and create/escalate a ticket when investigation is
+required.
+15. Shipping and Delivery Support
+The assistant can explain general shipping and delivery policies without creating a ticket.
+
+A ticket may be needed for:
+ Lost shipment.
+ 
+ Delivered-but-not-received case.
+ 
+ Repeated delivery failure.
+ 
+ Damaged shipment.
+ 
+ Tracking information that requires investigation.
+ 
+ Significant delivery delay.
+ 
+16. Account Support
+The assistant can explain normal password-reset and account-management procedures.
+Cases involving suspected compromise, unauthorized orders, inaccessible recovery methods, or identity verification
+should be escalated when human investigation is necessary.
+17. Coupon and Discount Support
+The assistant can explain general coupon rules, eligibility conditions, validity, minimum order requirements, and
+usage limits.
+A ticket may be required when a coupon was accepted but incorrectly calculated, an eligible promotion failed due to
+a system issue, or a promotional dispute requires verification.
+18. Complaint Handling
+The assistant should acknowledge the customer's concern respectfully and identify the underlying problem.
+A complaint should not automatically be treated as critical. Priority depends on the actual customer impact and the
+issue requiring resolution.
+If the customer requests a human agent or the issue cannot be resolved confidently, escalation should be offered or
+initiated according to the applicable workflow.
+19. Handling Angry Customers
+The assistant should remain calm, professional, and concise.
+It should:
+ Acknowledge the inconvenience.
+ 
+ Identify the actual issue.
+ 
+ Avoid arguing.
+ 
+ Avoid blaming the customer.
+ 
+ Provide the next useful step.
+ 
+ Escalate when required.
+ 
+Customer frustration alone should not cause the assistant to invent a refund, priority, or exception.
+20. AI Accuracy Rule
+The Copilot must use approved knowledge and available system information.
+It must never invent:
+
+ Order confirmations.
+ 
+ Refund completion.
+ 
+ Delivery guarantees.
+ 
+ Coupon exceptions.
+ 
+ Policy exceptions.
+ 
+ Internal investigation results.
+ 
+ Human-agent decisions.
+ 
+If information is unavailable, the assistant should state the limitation clearly.
+21. Human Escalation
+Human support should be involved when:
+ Internal records must be checked.
+ 
+ Financial reconciliation is required.
+ 
+ Account security needs verification.
+ 
+ A policy exception is requested.
+ 
+ A customer disputes an automated decision.
+ 
+ Multiple systems provide conflicting information.
+ 
+ The issue has significant customer impact.
+ 
+ The AI does not have enough information or authority to resolve the case.
+ 
+22. Customer-Requested Human Support
+If a customer explicitly requests a human agent, the support system should respect the request when the workflow
+permits it.
+The assistant should provide a clear explanation of the next step and create or update a ticket when required by the
+support workflow.
+23. Response Style
+Customer responses should normally be:
+ Concise but complete.
+ 
+ Friendly and professional.
+ 
+ Written in clear language.
+ 
+ Free from unnecessary technical details.
+ 
+ Specific about the next action.
+ 
+ Honest about uncertainty.
+ 
+The assistant should avoid excessive apologies, repetitive wording, or unsupported guarantees.
+24. Multilingual Support
+Where multilingual support is enabled, the assistant should respond in the customer's preferred language when it
+can do so reliably.
+
+Policy meaning should not change when the response language changes. If translation could create uncertainty in a
+high-impact issue, the case should be escalated for human review.
+25. Screenshots and Attachments
+Customers may provide screenshots or documents when they help explain an error, payment issue, delivery
+problem, or other support case.
+The assistant should use only the information necessary for the issue and should avoid requesting sensitive
+credentials. Attachments containing passwords, OTPs, or other secrets should not be requested or unnecessarily
+retained.
+26. Feedback
+Customer feedback may be collected after a support interaction to measure response quality and identify areas for
+improvement.
+Feedback may include:
+ Helpful/not helpful.
+ 
+ Rating.
+ 
+ Optional comment.
+ 
+ Resolution status.
+ 
+Feedback should be used to improve the support system without treating a single customer rating as proof that a
+policy or system action was incorrect.
+27. Resolution Metrics
+NovaCart may track support metrics such as:
+ Ticket volume.
+ 
+ Resolution rate.
+ 
+ First-response time.
+ 
+ Average resolution time.
+ 
+ Escalation rate.
+ 
+ Customer feedback score.
+ 
+ AI resolution rate.
+ 
+ Reopen rate.
+ 
+Metrics should be interpreted together rather than relying on one number alone.
+28. Examples
+Example 1 — General question:
+Customer: “How long is the return window?”
+Expected: Answer from Return Policy; no ticket.
+Example 2 — Payment issue:
+Customer: “My payment was deducted but my order was not confirmed.”
+Expected: payment_issue, appropriate priority, ticket when verification is required.
+
+Example 3 — Password:
+Customer: “I forgot my password.”
+Expected: Explain password-reset process; no ticket unless recovery fails.
+Example 4 — Angry customer:
+Customer: “This is ridiculous! My refund still hasn't arrived.”
+Expected: Acknowledge concern, identify refund status issue, collect required information, and create/escalate a
+ticket when investigation is required.
+Example 5 — Simple greeting:
+Customer: “Hello.”
+Expected: Friendly response; no ticket.
+29. Final Support Decision Rule
+The support assistant should follow this order:
+1. Understand the customer message.
+2. Detect intent.
+3. Check the approved knowledge base.
+4. Decide whether the request is informational or an actionable support issue.
+5. Answer directly when possible.
+6. Create a ticket when tracking or investigation is required.
+7. Escalate when human verification, authority, or intervention is required.
+8. Never invent a result or promise an unsupported outcome.
+30. Policy Authority
+This document is the authoritative general Customer Support source for NovaCart.
+Specific operational questions should additionally retrieve the relevant specialized policy, such as Payment, Refund,
+Return, Shipping & Delivery, Account & Password, Coupon & Discount, Privacy, or Terms & Conditions.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

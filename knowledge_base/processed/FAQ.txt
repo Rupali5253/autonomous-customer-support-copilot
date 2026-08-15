@@ -1,0 +1,244 @@
+NovaCart
+ Frequently Asked Questions (FAQ)
+Document Type: Customer & Support Knowledge Base
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+FAQ Area
+Orders, payments, returns, refunds, delivery, accounts, coupons and support
+Return Window
+Standard eligible-product return window: 7 calendar days from delivery
+Coupon Rule
+One promotional coupon per order unless an offer explicitly permits stacking
+Support Rule
+Simple FAQs normally do not create tickets; issues requiring investigation may
+Support Email
+support@novacart.example
+Privacy Contact
+privacy@novacart.example
+1. Company & General
+Q1. What is NovaCart?
+A. NovaCart is a fictional e-commerce company created for the Autonomous Customer Support Copilot project. It
+provides an online shopping experience with customer accounts, orders, payments, delivery, returns, refunds, and
+customer support.
+Q2. How can I contact NovaCart support?
+A. Customers can contact support through the supported customer-support channels. The project support email is
+support@novacart.example.
+Q3. What can the AI support assistant help me with?
+A. It can answer approved FAQs, explain company policies, classify support issues, provide troubleshooting
+guidance, create tickets when required, and escalate complex cases to human support.
+Q4. Will every message create a support ticket?
+A. No. Greetings, casual conversation, and simple policy questions normally do not create tickets. Tickets are
+created when an issue requires tracking, investigation, or action.
+2. Account & Password
+Q5. I forgot my password. What should I do?
+A. Use the official NovaCart password-reset or account-recovery process. The assistant can guide you through the
+process.
+Q6. Can I give my password to customer support?
+A. No. Never share your password with support agents or the AI assistant.
+Q7. Should I share an OTP or verification code with support?
+A. No. Never share OTPs, PINs, authentication codes, or similar security secrets.
+
+Q8. I see an order I did not place. What should I do?
+A. Treat it as a potential account-security issue. Provide the order number or other non-sensitive information and
+contact support. A ticket may be created for investigation.
+Q9. I received a suspicious login alert. What should I do?
+A. Secure your account through the official recovery process and contact support if the activity is not recognized.
+Human escalation may be required.
+3. Product & Orders
+Q10. How do I place an order?
+A. Select an eligible product, add it to the cart, provide the required delivery information, select an available payment
+method, review the order, and complete checkout.
+Q11. Can I change my order after placing it?
+A. It depends on the order's fulfillment status. Changes may be possible before fulfillment reaches a restricted
+stage. Contact support if the required change cannot be made through the normal order interface.
+Q12. Can I cancel my order?
+A. Cancellation is generally possible only while the order is in an eligible cancellable stage. Once fulfillment or
+shipment reaches a non-cancellable stage, cancellation may not be available.
+Q13. How can I check my order status?
+A. Use the order-tracking or order-history feature available in the customer account. If the status appears incorrect
+or requires investigation, contact support.
+Q14. My order details look incorrect. What should I do?
+A. Check the order summary first. If the order contains incorrect information that cannot be corrected through the
+normal process, contact support and provide the order number.
+4. Payment
+Q15. What payment methods are supported?
+A. Available payment methods are shown during checkout. Payment-method availability may vary by order, location,
+or promotional offer.
+Q16. My payment failed. What should I do?
+A. Verify the selected payment method and try an available alternative if appropriate. If money appears to have
+been deducted despite a failed order, contact support for payment reconciliation.
+Q17. My payment was deducted but my order was not confirmed. What should I do?
+A. This is a payment-support issue. Provide the order number or transaction reference if available. A support ticket
+should be created when payment verification or reconciliation is required.
+Q18. Can the AI confirm that my payment was successful?
+A. Only when verified payment/order information is available. The AI must not assume payment success from the
+customer's message alone.
+5. Returns
+Q19. How many days do I have to return an eligible product?
+
+A. The standard NovaCart return window is 7 calendar days from the date of delivery, unless a specific product
+or offer has a different approved return condition.
+Q20. Can every product be returned?
+A. No. Return eligibility depends on the product and applicable return conditions. Some categories may be
+non-returnable.
+Q21. I received the wrong product. What should I do?
+A. Contact support and provide the order number and relevant product details. A ticket may be created for
+investigation.
+Q22. I received a damaged product. What should I do?
+A. Report the issue promptly and provide the order details and supporting evidence such as a suitable photograph
+or screenshot when requested. The case may require human review.
+Q23. Can I return a product after the return window?
+A. Normally, returns must be requested within the applicable return window unless an approved exception or
+product-specific policy applies. The assistant should not promise an exception without authorization.
+6. Refunds
+Q24. When will I receive my refund?
+A. Refund timing depends on the refund process and payment method. The assistant should not promise a specific
+date unless verified information supports it.
+Q25. What is the difference between refund initiated and refund completed?
+A. A refund being initiated means the refund process has started. Refund completed means the transaction has
+been successfully processed according to the applicable system status. These statuses should not be treated as
+identical.
+Q26. My refund has not arrived. What should I do?
+A. Provide the relevant order or refund reference and contact support. A ticket may be created if refund investigation
+is required.
+Q27. Will I always receive the full amount I paid?
+A. The final refund amount depends on the applicable Refund Policy, order conditions, discounts, returned items,
+shipping charges, and other relevant terms. The assistant should not guarantee an amount without verified order
+information.
+7. Shipping & Delivery
+Q28. How can I track my order?
+A. Use the tracking information available through the order-history or tracking feature.
+Q29. My order is delayed. What should I do?
+A. Check the latest tracking information. If the delay requires investigation or exceeds the applicable delivery
+expectations, contact support and a ticket may be created.
+Q30. My order says delivered but I did not receive it. What should I do?
+A. Contact support promptly and provide the order number. This may require a delivery investigation and human
+escalation.
+
+Q31. My package arrived damaged. What should I do?
+A. Report the issue to support with the order details and appropriate evidence. The case may require investigation.
+Q32. Can the AI guarantee my delivery date?
+A. No. The assistant should only provide delivery information supported by approved policy or verified
+tracking/system information.
+8. Cancellation
+Q33. Can I cancel an order after it has shipped?
+A. Standard cancellation may not be available after an order reaches a non-cancellable fulfillment or shipment
+stage. The applicable Cancellation Policy should be followed.
+Q34. I requested cancellation. Is the order definitely cancelled?
+A. A cancellation request and a confirmed cancellation are different. The assistant should confirm cancellation only
+when verified order information shows that the cancellation is complete.
+Q35. What happens to a coupon if I cancel an order?
+A. Coupon treatment depends on the specific promotion and cancellation terms. The assistant should not promise
+that a coupon will automatically be restored.
+9. Coupons & Discounts
+Q36. Can I use two coupons on one order?
+A. The standard rule is one promotional coupon per order unless a specific campaign explicitly permits stacking.
+Q37. Why is my coupon not working?
+A. Possible reasons include expiration, minimum order value, product restrictions, customer eligibility, usage limits,
+incorrect code entry, or incompatible promotions.
+Q38. Can an expired coupon be extended?
+A. Not normally. The assistant must not promise an extension unless an authorized exception is confirmed.
+Q39. My coupon was accepted but the discount is wrong. What should I do?
+A. Provide the order or coupon details. If the discount requires system verification, a support ticket should be
+created.
+Q40. Can I use a new-customer coupon if I have already ordered?
+A. New-customer promotions may be limited to eligible first orders. The individual promotion's terms determine
+eligibility.
+10. Customer Support & Tickets
+Q41. When will a ticket be created?
+A. A ticket may be created when the customer has a support issue requiring investigation, action, or tracking.
+Q42. Why was no ticket created for my question?
+A. Simple questions and general FAQs can often be answered directly, so creating a ticket is unnecessary.
+Q43. Can I ask for a human agent?
+
+A. Yes. If the workflow permits, the support system can route the request to human support. Complex or sensitive
+cases may also require human escalation.
+Q44. What information should I provide to support?
+A. Provide only information needed to resolve the issue, such as an order number, registered email address,
+transaction reference, product name, or description of the problem.
+Q45. What information should I never provide?
+A. Never provide passwords, OTPs, PINs, authentication codes, or complete confidential payment credentials to
+support.
+11. Priority & Escalation
+Q46. What is a high-priority issue?
+A. High priority may apply to significant financial, order, delivery, security, or customer-impact issues requiring timely
+attention.
+Q47. What is a critical issue?
+A. Critical issues may include severe account-security incidents, widespread service failures, serious safety
+concerns, or other situations requiring immediate authorized human intervention.
+Q48. Does being angry make my ticket critical?
+A. No. Priority is based on the underlying issue and customer impact, not simply the customer's emotional tone.
+Q49. When will AI escalate to a human?
+A. Escalation may occur when internal verification is required, information is insufficient, a policy exception is
+requested, security is involved, systems conflict, or the AI lacks authority to resolve the issue.
+12. Privacy & Security
+Q50. How does NovaCart use my information?
+A. Information may be used to manage accounts, process orders, provide support, handle transactions, improve
+services, protect security, and meet legitimate operational or legal requirements.
+Q51. Can the AI see another customer's information?
+A. It should not disclose or expose another customer's personal information.
+Q52. Can I request deletion of my personal information?
+A. Privacy requests can be submitted through the applicable privacy process. Some information may need to be
+retained for legitimate operational, security, dispute, or legal reasons.
+Q53. Where can I ask a privacy question?
+A. The project privacy contact is privacy@novacart.example.
+13. AI Assistant Behavior
+Q54. Can the AI make up an answer if it does not know?
+A. No. The AI should use approved knowledge and available system information. If information is unavailable, it
+should clearly state the limitation.
+Q55. Can the AI promise a refund?
+
+A. No, unless the system has verified the applicable refund status and the assistant is authorized to communicate it.
+Q56. Can the AI promise a delivery date?
+A. No. It should provide only verified delivery information or approved policy guidance.
+Q57. Can the AI create a ticket automatically?
+A. Yes, when the detected issue requires tracking or investigation according to the support workflow.
+Q58. Will the AI always answer in English?
+A. Where multilingual support is enabled, it may respond in the customer's preferred language when it can do so
+reliably. The policy meaning should remain unchanged.
+14. Troubleshooting & Common Situations
+Q59. The website is not working. What should I do?
+A. Retry after checking the connection and basic browser conditions. If the issue continues and requires
+investigation, contact support.
+Q60. I received an error during checkout. What should I do?
+A. Note the error message, avoid repeatedly submitting payment if you are unsure whether a transaction was
+created, and contact support with the relevant order or transaction information.
+Q61. I was charged twice. What should I do?
+A. Provide the order or transaction references and contact support. Duplicate-payment cases may require payment
+reconciliation.
+Q62. I cannot access my account but need my order information.
+A. Use the official account-recovery process. If recovery fails, contact support and complete any required
+verification.
+Q63. My order was cancelled unexpectedly. What should I do?
+A. Check the order status and any available cancellation information. If the reason is unclear or disputed, contact
+support for investigation.
+15. Quick Decision Guide
+For the Autonomous Customer Support Copilot:
+ Greeting/casual conversation → answer directly → no ticket.
+ 
+ General policy question → retrieve relevant PDF → answer → no ticket.
+ 
+ Specific payment problem → detect payment intent → ticket if verification is required.
+ 
+ Specific refund problem → retrieve Refund Policy → ticket/escalate if investigation is required.
+ 
+ Return eligibility question → retrieve Return Policy → answer if clear.
+ 
+ Wrong/damaged product → support issue → ticket when investigation is required.
+ 
+ Password reset question → retrieve Account & Password Policy → guide customer.
+ 
+ Suspected account compromise → security issue → human escalation as required.
+ 
+ Coupon question → retrieve Coupon & Discount Policy → answer if conditions are clear.
+ 
+ Privacy request → retrieve Privacy Policy → human review when verification/processing is required.
+ 
+16. Important Policy Consistency Rules
+The FAQ is a quick-reference document and should not override specialized policies.
+When an FAQ answer conflicts with a specialized approved policy, the specialized policy should be retrieved and
+treated as authoritative.
+For example, the standard return window in this FAQ is 7 calendar days from delivery, but a specific product may
+have a different approved return condition. The assistant should retrieve the relevant product-specific or specialized
+policy before giving a definitive answer.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

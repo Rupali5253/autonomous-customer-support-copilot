@@ -1,0 +1,123 @@
+NovaCart
+ Company Overview & Customer Support Knowledge Document
+Document Type: Internal Knowledge Base Document
+Version: 1.0
+Document Status: Active for Customer Support Copilot Demo
+1. Company Information
+Field
+Information
+Company Name
+NovaCart
+Industry
+E-commerce / Online Retail
+Business Model
+B2C online marketplace and retail platform
+Headquarters
+Bengaluru, Karnataka, India
+Service Area
+India
+Website
+www.novacart.example
+Customer Support Email
+support@novacart.example
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+2. About NovaCart
+NovaCart is a fictional Indian e-commerce company created for the Autonomous Customer Support Copilot
+project. The platform allows customers to browse products, place orders, make secure payments, track deliveries,
+request eligible returns or refunds, and receive customer support through digital channels.
+NovaCart focuses on providing a simple and reliable online shopping experience while making customer support
+faster and more consistent. Its customer-support system combines automated assistance with human escalation
+when an issue cannot be safely or accurately resolved by the AI assistant.
+3. Business Objective
+NovaCart's primary objective is to provide customers with a convenient online shopping experience while
+maintaining transparent policies and responsive support. The company aims to reduce unnecessary support wait
+times, provide accurate answers to common questions, and ensure that complex or sensitive issues are routed to
+human support representatives.
+4. Product Categories
+NovaCart offers products across several broad categories:
+ Electronics & Accessories — phones, computer accessories, audio devices and related electronics.
+ Home & Kitchen — appliances, cookware, home organization and household products.
+ Fashion & Lifestyle — clothing, footwear, bags and lifestyle accessories.
+ Beauty & Personal Care — personal-care products, skincare and grooming products.
+ Grocery & Daily Essentials — household consumables, packaged goods and everyday essentials.
+
+5. Customer Ordering Journey
+A typical NovaCart customer journey is:
+1. Customer creates an account or signs in.
+2. Customer browses or searches for products.
+3. Customer reviews product information and adds eligible items to the cart.
+4. Customer proceeds to checkout and provides delivery details.
+5. Customer selects an available payment method.
+6. Payment is processed and the order is confirmed after successful verification.
+7. NovaCart prepares the order for shipment.
+8. The order is handed to the delivery partner.
+9. Customer can track the order and receives delivery updates.
+10. The order is delivered to the customer.
+6. Ordering System
+Each confirmed order receives a unique order identifier. Customers can use the order identifier from their account
+or confirmation communication when contacting customer support.
+Customers may contact support regarding order confirmation, order status, delivery delays, cancellation eligibility,
+returns, refunds, damaged products, incorrect products, or payment-related problems. Detailed rules for these
+situations are maintained in separate policy documents in the NovaCart knowledge base.
+7. Payment Overview
+NovaCart supports commonly used payment methods such as credit/debit cards, UPI, net banking, selected digital
+wallets, and Cash on Delivery where available.
+A successful payment should normally result in an order confirmation. If money is deducted but an order is not
+confirmed, the customer should retain the transaction details and contact support. Such cases may require
+payment verification and can be escalated when the payment cannot be automatically confirmed.
+Detailed payment rules, verification procedures, failed-payment handling, and refund timelines are defined in the
+Payment Policy and Refund Policy documents.
+8. Shipping & Delivery Overview
+NovaCart provides delivery services within supported service areas in India. Delivery estimates can vary based on
+product availability, seller or fulfillment location, customer location, selected delivery option, and external delivery
+conditions.
+Customers can use their order information to check shipment and delivery status. Delayed, failed, or incorrectly
+delivered orders can be reported to customer support. Detailed delivery timelines, exceptions, tracking rules, and
+escalation conditions are maintained in the Shipping & Delivery Policy.
+9. Returns, Refunds & Cancellation Overview
+NovaCart allows eligible customers to request returns, refunds, or order cancellation according to the applicable
+policy and product conditions. Eligibility may depend on product category, order status, shipment status, and the
+reason for the request.
+Customers should provide accurate order information when contacting support. Detailed eligibility requirements,
+time windows, exclusions, refund methods, and processing timelines are defined in the respective Return Policy,
+Refund Policy, and Cancellation Policy.
+10. Customer Account & Security
+
+Customers are responsible for maintaining the confidentiality of their account credentials. NovaCart provides
+account-related support for login problems, password reset, account access, and related issues.
+If a customer forgets a password, the customer can use the password-reset process associated with the registered
+email address. Security-sensitive cases may require additional verification before support can make account
+changes.
+11. Customer Support
+NovaCart provides customer assistance through website chat, support tickets, and email support. The support
+system is designed to distinguish between normal conversations and genuine support issues.
+General questions may be answered directly by the AI assistant without creating a support ticket. Issues requiring
+investigation, tracking, or human intervention can result in a support ticket. Examples include unresolved payment
+problems, certain refund disputes, delivery problems, account-access issues, and other cases requiring
+investigation.
+12. AI Support & Human Escalation
+NovaCart's Autonomous Customer Support Copilot uses intent detection, a company knowledge base,
+retrieval-augmented generation (RAG), and an AI language model to assist customers.
+The support flow is:
+Customer message → Intent detection → Knowledge retrieval when required → AI response → Resolution or
+ticket creation.
+If the AI has sufficient information from the approved knowledge base, it can provide a response directly. If the
+issue is complex, requires account-specific investigation, involves a policy exception, or cannot be confidently
+resolved, the system can create or escalate a support ticket for human review.
+13. Support Principles
+NovaCart customer support follows these principles:
+ Provide clear and professional communication.
+ Use approved company knowledge when answering policy-related questions.
+ Avoid inventing policy details or unsupported promises.
+ Protect customer account and payment information.
+ Escalate issues that require human investigation.
+ Keep ticket information accurate and traceable.
+ Provide customers with relevant next steps whenever possible.
+14. Document Usage
+This document provides a high-level overview of NovaCart and its support environment. It is intended to be used
+as part of the company's internal knowledge base for the Autonomous Customer Support Copilot.
+Specific operational rules should be taken from the corresponding policy document when a customer question
+requires detailed information. In case of conflicting information, the most specific and current policy document
+should be treated as the authoritative source.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

@@ -1,0 +1,193 @@
+NovaCart
+ Payment Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Payment processing and payment-related support
+Applies To
+NovaCart customers placing orders through supported channels
+Supported Region
+India
+Support Email
+support@novacart.example
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+1. Purpose
+This Payment Policy explains how payments are handled on NovaCart, what customers can expect during
+checkout, how payment failures are handled, and what information may be required when a payment-related issue
+is reported.
+The policy is intended to provide consistent guidance to customers and to the NovaCart customer-support system.
+Specific refund processing rules are maintained separately in the Refund Policy.
+2. Supported Payment Methods
+NovaCart supports the following payment methods where available for the customer's order and location:
+ Credit cards and debit cards.
+ 
+ UPI-based payments.
+ 
+ Net banking.
+ 
+ Selected digital wallets.
+ 
+ Cash on Delivery (COD), where the product, delivery location, and order meet the applicable eligibility conditions.
+ 
+The payment methods displayed at checkout are the methods currently available for that particular order. Availability
+may vary based on product category, order value, delivery location, or operational restrictions.
+3. Payment at Checkout
+Customers must select an available payment method during checkout and provide the information requested by the
+selected payment provider.
+For online payments, the customer may be redirected to or interact with a payment service interface. NovaCart
+considers an online payment successful only after receiving the required confirmation from the payment process.
+Customers should not repeatedly attempt payment if their bank or payment provider shows that a transaction is
+already being processed. Repeated attempts may create multiple pending transactions, which can require additional
+verification.
+4. Order Confirmation
+
+A successful payment does not by itself guarantee that an order has been confirmed. An order is considered
+confirmed only when NovaCart successfully records the order and provides an order confirmation.
+Customers should check their order status after completing payment. The order confirmation may be shown in the
+customer account and/or sent through the communication channel associated with the account.
+5. Payment Successful but Order Not Confirmed
+If money has been deducted but the order is not confirmed, the customer should not immediately make another
+payment.
+The customer should retain:
+ The transaction or payment reference ID.
+ 
+ The approximate transaction date and time.
+ 
+ The amount charged.
+ 
+ The payment method used.
+ 
+ Any available payment confirmation or receipt.
+ 
+Support may use these details to investigate whether the payment was received, is still pending, or requires
+reconciliation. If the payment cannot be matched to a confirmed order, the case may be escalated for further
+investigation and handled according to the applicable refund process.
+6. Payment Failed
+A payment may fail because of insufficient funds, bank or payment-provider issues, authentication failure, expired or
+blocked payment credentials, network problems, or other processing errors.
+When a payment fails and no amount has been deducted, the customer may retry using an available payment
+method after checking the information entered at checkout.
+If an amount was deducted despite the payment being reported as failed, the customer should retain the transaction
+reference and contact NovaCart support rather than repeatedly retrying the same transaction.
+7. Pending Payments
+A payment may remain pending when confirmation from the bank or payment provider has not yet reached
+NovaCart.
+Customers should allow the payment status to update before making another payment for the same order. If the
+payment remains pending beyond the expected processing period or the order is not confirmed, the customer
+should contact support with the transaction details.
+A pending transaction is not automatically treated as a completed NovaCart order.
+8. Duplicate Payment
+If a customer believes that the same order was charged more than once, the customer should provide the order
+number and relevant transaction references.
+Support should verify whether:
+ More than one payment was successfully captured.
+ 
+ One transaction is only pending.
+ 
+ One transaction was reversed or automatically released.
+ 
+ Multiple payment attempts were associated with the same order.
+ 
+Any confirmed duplicate payment should be handled through the applicable reconciliation and refund process.
+9. Cash on Delivery
+Cash on Delivery is available only for eligible orders and supported delivery locations. Availability may also depend
+on product, seller, order value, and operational conditions.
+For COD orders, the customer does not need to make an online payment at checkout unless the checkout page
+specifically requires another payment arrangement. Customers should follow the delivery instructions provided with
+the order.
+COD availability may change and should be determined from the options shown during checkout.
+10. Payment Security
+Customers should never share their card PIN, UPI PIN, account password, one-time password (OTP), or other
+confidential authentication credentials with NovaCart support.
+NovaCart support representatives should not request confidential payment credentials through chat or email.
+Customers should use only the official NovaCart website or app and trusted payment interfaces when making
+payments.
+If a customer suspects unauthorized payment activity, the customer should contact the relevant bank or payment
+provider immediately and notify NovaCart support so that the order or account can be reviewed.
+11. Payment Information Required for Support
+To investigate a payment issue, support may request non-sensitive transaction information such as:
+ Order number, if available.
+ 
+ Transaction/reference ID.
+ 
+ Payment date and approximate time.
+ 
+ Payment amount.
+ 
+ Payment method.
+ 
+ Screenshot or receipt showing transaction status, where appropriate.
+ 
+Customers should hide or avoid sharing sensitive credentials, full card numbers, PINs, passwords, and OTPs.
+12. Payment-Related Ticket Creation
+A normal question such as asking which payment methods NovaCart supports does not necessarily require a
+support ticket.
+A ticket may be appropriate when the customer reports a transaction that requires investigation, such as:
+ Payment deducted but order not confirmed.
+ 
+ Payment charged more than once.
+ 
+ Payment marked successful by the provider but not reflected in the order.
+ 
+ A payment remains unresolved or pending.
+ 
+ A customer disputes a payment outcome and automated support cannot resolve the issue.
+ 
+The Autonomous Customer Support Copilot may classify the customer's intent and determine whether a ticket is
+required according to the support workflow.
+
+13. Escalation Conditions
+A payment issue should be escalated to human support when the AI assistant cannot confidently resolve the case
+using the approved knowledge base, when transaction verification is required, when a customer reports a potentially
+duplicate charge, when a payment is deducted without a confirmed order, or when the issue requires access to
+internal transaction records.
+The AI assistant must not claim that a payment has been verified or refunded unless the relevant system or
+authorized support process has actually confirmed it.
+14. Refund Relationship
+Payment problems may result in a refund when a payment was successfully captured but the corresponding order
+cannot be fulfilled or confirmed, subject to NovaCart's Refund Policy.
+The Payment Policy explains how payment issues are identified and investigated. The Refund Policy defines refund
+eligibility, processing stages, supported refund methods, and expected processing timelines.
+15. Customer Support Guidance
+When responding to a payment issue, support should:
+ Identify the customer's payment-related intent.
+ 
+ Determine whether an order exists and whether it is confirmed.
+ 
+ Ask only for the non-sensitive information necessary for investigation.
+ 
+ Avoid requesting passwords, PINs, OTPs, or confidential credentials.
+ 
+ Provide clear next steps.
+ 
+ Escalate cases requiring transaction verification or internal investigation.
+ 
+ Avoid promising a refund or order confirmation before verification is completed.
+ 
+16. Examples
+Example 1 — General payment question:
+Customer: “Which payment methods do you accept?”
+Expected handling: Provide the supported payment methods. No ticket is normally required.
+Example 2 — Payment deducted but no order:
+Customer: “My payment was deducted but my order was not confirmed.”
+Expected handling: Classify as a payment issue, request appropriate transaction details, and create/escalate a
+ticket when investigation is required.
+Example 3 — Duplicate charge:
+Customer: “I was charged twice for the same order.”
+Expected handling: Request the order number and relevant transaction references, then route the case for payment
+verification.
+Example 4 — Payment failed with no deduction:
+Customer: “My card payment failed and I was not charged.”
+Expected handling: Explain that the customer may retry using an available payment method after checking the
+payment details.
+
+17. Policy Authority
+This document is the authoritative source for NovaCart's high-level payment handling rules within the project
+knowledge base. More specific documents may define additional rules for refunds, returns, cancellation, delivery, or
+account-related issues.
+The customer-support AI should use retrieved company documentation rather than inventing payment rules. If the
+available documentation does not contain enough information to resolve a payment issue safely, the issue should
+be escalated to human support.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

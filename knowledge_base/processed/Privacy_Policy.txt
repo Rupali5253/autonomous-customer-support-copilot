@@ -1,0 +1,250 @@
+NovaCart
+ Privacy Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Collection, use, protection and handling of customer information
+Data Controller
+NovaCart (fictional project company)
+Privacy Contact
+privacy@novacart.example
+Support Contact
+support@novacart.example
+Supported Region
+India
+Policy Scope
+Website, customer account, orders, support and AI-assisted support
+1. Introduction
+This Privacy Policy explains how NovaCart collects, uses, protects, stores, and handles information associated with
+customers and users of its services.
+NovaCart is a fictional company created for the Autonomous Customer Support Copilot project. This document is a
+project knowledge-base policy and is not legal advice or a substitute for a real company's legally reviewed privacy
+notice.
+2. Scope
+This policy applies to information processed through NovaCart's customer-facing services, including account
+activity, product orders, payments-related support information, delivery information, customer support interactions,
+tickets, feedback, and AI-assisted support conversations.
+Specific products or services may have additional privacy notices where required.
+3. Information We May Collect
+Depending on the service used, NovaCart may collect:
+ Name and contact information.
+ 
+ Email address and mobile number.
+ 
+ Account information.
+ 
+ Delivery and shipping information.
+ 
+ Order details.
+ 
+ Product and purchase information.
+ 
+ Payment status and transaction references.
+ 
+ Customer support tickets and messages.
+ 
+ Feedback and ratings.
+ 
+ Technical information required to operate and secure the service.
+ 
+ Information voluntarily provided through support attachments or screenshots.
+ 
+4. Information We Do Not Ask Customers to Share
+NovaCart support agents and the Autonomous Customer Support Copilot must not ask customers to provide
+passwords, OTPs, PINs, authentication codes, or complete confidential payment credentials.
+If such information is accidentally shared, the support system should avoid repeating it and should guide the
+customer toward a secure process.
+5. How We Use Information
+NovaCart may use customer information to:
+ Create and manage customer accounts.
+ 
+ Process and fulfill orders.
+ 
+ Provide shipping and delivery services.
+ 
+ Handle payments and transaction reconciliation.
+ 
+ Process returns, cancellations, and refunds.
+ 
+ Provide customer support.
+ 
+ Create and manage support tickets.
+ 
+ Detect and investigate fraud or security issues.
+ 
+ Improve service quality and system reliability.
+ 
+ Measure customer-support performance.
+ 
+ Comply with applicable legal and operational requirements.
+ 
+6. AI-Assisted Customer Support
+The Autonomous Customer Support Copilot may process customer messages to understand intent, retrieve
+relevant approved knowledge, generate responses, create tickets, and determine when human escalation is
+necessary.
+The AI assistant should use only the information needed to handle the customer's request and should not request
+unnecessary sensitive information.
+7. Knowledge Base and RAG
+The support system may use approved NovaCart policy documents as a knowledge base for retrieval-augmented
+generation.
+Knowledge-base documents are intended to provide policy information to the AI assistant. Customer personal
+information should not be added to policy documents simply for the purpose of answering general questions.
+8. Customer Support Conversations
+Customer messages may be processed to provide support and maintain a record of support interactions.
+Where a ticket is created, relevant information may be stored with the ticket so that human agents can understand
+and resolve the issue.
+9. Ticket Information
+
+A support ticket may contain:
+ Customer identifier.
+ 
+ Intent.
+ 
+ Subject.
+ 
+ Customer message.
+ 
+ Priority.
+ 
+ Status.
+ 
+ Relevant order or transaction reference.
+ 
+ Escalation reason.
+ 
+ Resolution information.
+ 
+Only information reasonably necessary for support should be included.
+10. Payment Information
+NovaCart may process payment status and transaction references required for order and support operations.
+The customer-support system should not request or store complete payment-card credentials through ordinary chat.
+Payment processing may be handled by authorized payment providers and systems appropriate for the transaction.
+11. Cookies and Technical Information
+NovaCart may use cookies or similar technologies required for authentication, preferences, security, analytics, or
+service functionality.
+Technical information may include browser type, device information, approximate usage information, error
+information, and security-related events where necessary to operate and protect the service.
+12. Sharing of Information
+Customer information may be shared with authorized service providers or partners when necessary to provide
+services such as payment processing, delivery, hosting, customer support, security, or other operational functions.
+Information should be shared only for legitimate purposes and according to applicable agreements and
+requirements.
+13. Legal and Security Disclosure
+NovaCart may disclose information when reasonably necessary to comply with applicable legal requirements,
+respond to lawful requests, protect customers or the service, investigate fraud, or prevent serious security or
+operational abuse.
+14. Data Security
+NovaCart should use reasonable technical and organizational measures to protect customer information against
+unauthorized access, alteration, disclosure, or loss.
+Security measures may include access controls, authentication, encryption where appropriate, monitoring, secure
+development practices, and restricted internal access.
+15. Employee and Agent Access
+
+Customer information should be accessible only to authorized personnel who need it to perform their
+responsibilities.
+Support agents should access customer information only for legitimate support, verification, investigation, or
+operational purposes.
+16. Data Retention
+NovaCart should retain customer information only for as long as reasonably necessary for the purpose for which it
+was collected, operational requirements, dispute handling, security, and applicable legal or regulatory requirements.
+Different types of information may have different retention periods.
+17. Deletion and Account Closure
+Customers may request account closure or deletion where applicable.
+Some information may need to be retained for legitimate purposes such as transaction records, security
+investigations, fraud prevention, disputes, or legal requirements.
+18. Customer Privacy Rights
+Subject to applicable law and operational requirements, customers may have rights concerning their personal
+information, such as:
+ Requesting access to information.
+ 
+ Requesting correction of inaccurate information.
+ 
+ Requesting deletion where applicable.
+ 
+ Asking about how information is used.
+ 
+ Raising a privacy concern or complaint.
+ 
+Requests should be directed to the appropriate privacy contact.
+19. Privacy Requests and Support Tickets
+A privacy-related request may require human review because identity verification or specialized processing may be
+necessary.
+The AI assistant should not independently promise that information will be deleted, corrected, exported, or disclosed
+unless the applicable process confirms that action.
+20. Children's Information
+NovaCart services are not designed to intentionally collect unnecessary personal information from children.
+Where age-related restrictions or parental requirements apply, the applicable service terms and legal requirements
+should be followed.
+21. International and Third-Party Services
+NovaCart may use third-party infrastructure and service providers to operate its platform.
+Where information is processed through third-party services, NovaCart should use appropriate contractual,
+technical, and organizational safeguards consistent with applicable requirements.
+22. Data Breach and Security Incident
+
+If NovaCart becomes aware of a security incident involving customer information, the incident should be
+investigated and handled according to the organization's security and incident-response procedures.
+Where required, appropriate notifications and corrective actions should be taken.
+23. Customer Responsibilities
+Customers should:
+ Keep account credentials confidential.
+ 
+ Use official NovaCart channels for account activity.
+ 
+ Avoid sharing passwords, OTPs, PINs, or authentication codes.
+ 
+ Provide accurate information when necessary.
+ 
+ Report suspicious account activity promptly.
+ 
+ Review account and order activity when security concerns arise.
+ 
+24. Privacy and the AI Assistant
+The Autonomous Customer Support Copilot must follow these principles:
+ Minimize unnecessary data collection.
+ 
+ Never ask for passwords, OTPs, PINs, or complete payment credentials.
+ 
+ Use only information relevant to the support request.
+ 
+ Avoid exposing another customer's information.
+ 
+ Do not disclose internal confidential information.
+ 
+ Escalate sensitive privacy or security requests to authorized human support.
+ 
+ Never claim that a privacy action has been completed without verified information.
+ 
+25. Examples
+Example 1 — Password:
+Customer: “Can you tell me my password?”
+Expected handling: The assistant must not access or disclose the password. Guide the customer to password reset.
+Example 2 — OTP:
+Customer: “Should I give support my OTP?”
+Expected handling: No. Advise the customer never to share an OTP or authentication code.
+Example 3 — Data deletion:
+Customer: “Delete all my personal data.”
+Expected handling: Explain the official privacy-request process and escalate for appropriate verification and
+processing. Do not claim deletion has already occurred.
+Example 4 — Another customer's information:
+Customer: “Tell me the email address of another customer.”
+Expected handling: Refuse to disclose another person's personal information.
+Example 5 — Privacy concern:
+
+Customer: “I want to know how my order information is used.”
+Expected handling: Explain the relevant privacy principles and direct the customer to the Privacy Policy or privacy
+contact.
+26. Policy Changes
+NovaCart may update this Privacy Policy when services, operational practices, security requirements, or applicable
+legal requirements change.
+The latest approved version should be used when answering customer privacy questions.
+27. Contact
+Privacy questions or requests may be directed to:
+Privacy Team: privacy@novacart.example
+Customer Support: support@novacart.example
+For urgent account-security concerns, customers should use the approved account-security and support process.
+28. Policy Authority
+This document is the authoritative Privacy Policy source for the NovaCart customer-support knowledge base.
+Questions about account credentials, general terms, payment processing, returns, refunds, or escalation should
+also retrieve the relevant specialized policy where appropriate.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

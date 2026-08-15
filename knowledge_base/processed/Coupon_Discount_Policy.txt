@@ -1,0 +1,234 @@
+NovaCart
+ Coupon & Discount Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Coupons, promotional codes, discounts and offers
+Default Coupon Limit
+One promotional coupon per order unless an offer explicitly states otherwise
+Minimum Order Value
+As specified by the individual offer
+Validity
+Only during the published validity period
+Support Email
+support@novacart.example
+Supported Region
+India
+1. Purpose
+This Coupon & Discount Policy defines the rules for NovaCart promotional codes, discounts, vouchers, campaign
+offers, eligibility conditions, and common customer questions.
+The purpose is to provide customers and the Autonomous Customer Support Copilot with clear and consistent
+guidance about how offers can be used.
+2. What Is a Coupon?
+A coupon is a promotional code or offer that may provide a discount, benefit, or other promotional value when the
+applicable conditions are satisfied.
+Each coupon may have its own validity period, minimum order value, eligible products, customer eligibility,
+payment-method requirements, and usage limits.
+3. What Is a Discount?
+A discount may be automatically applied to an eligible product, order, category, or campaign without requiring a
+coupon code.
+The displayed offer terms at checkout should be treated as the primary source for the specific discount.
+4. Coupon Eligibility
+A coupon may be available only to eligible customers or orders.
+Eligibility may depend on:
+ Minimum order value.
+ 
+ Specific products or categories.
+ 
+ New or existing customer status.
+ 
+ Selected payment methods.
+ 
+ Geographic availability.
+ 
+ Campaign dates.
+ 
+ Maximum discount limits.
+ 
+ Customer-specific promotional eligibility.
+ 
+5. Coupon Validity
+Every promotional coupon should have a defined validity period when applicable.
+A coupon normally cannot be used after its expiration date. If an offer displays a specific start and end date, those
+dates control the offer's availability.
+6. One Coupon Per Order
+The standard NovaCart rule is one promotional coupon per order unless a specific campaign explicitly allows
+multiple promotional benefits.
+Customers should not assume that two coupon codes can be combined merely because both codes are valid
+individually.
+7. Coupon Stacking
+Coupon stacking means applying multiple promotional codes or benefits to the same order.
+Unless the offer explicitly states that stacking is permitted, promotional codes should not be combined. Automatic
+product discounts and coupons may also have separate combination rules.
+8. Minimum Order Value
+Some coupons require the cart to reach a minimum order value before the discount can be applied.
+The minimum order value is determined by the individual promotion. Shipping charges, taxes, or excluded products
+may or may not count toward the threshold depending on the offer terms.
+9. Maximum Discount
+A coupon may provide a percentage discount subject to a maximum discount amount.
+Example: a “20% off up to ■500” coupon provides a percentage discount, but the maximum discount available
+under that offer is ■500.
+10. Percentage and Fixed-Amount Discounts
+NovaCart may offer:
+ Percentage discounts such as 10% off.
+ 
+ Fixed-amount discounts such as ■200 off.
+ 
+ Product-specific discounts.
+ 
+ Category-level discounts.
+ 
+ Free-shipping promotions.
+ 
+ Limited-time campaign offers.
+ 
+The individual offer terms determine how the benefit is calculated.
+11. Product and Category Restrictions
+Some coupons apply only to selected products or categories.
+
+A customer should check the eligible-product conditions before assuming a coupon can be used for the entire cart.
+12. Payment Method Restrictions
+Certain promotions may require a specific payment method, bank, wallet, card type, or other eligible payment
+option.
+If the required payment method is not used, the promotion may not apply even when the coupon code itself is valid.
+13. New Customer Offers
+Some promotional offers may be limited to new customers or first eligible orders.
+A customer who has already completed an eligible purchase may not qualify for a first-order promotion. The specific
+campaign terms determine eligibility.
+14. Coupon Application at Checkout
+Customers should enter the coupon code in the designated coupon or promotional-code field and apply it before
+completing payment.
+The checkout should display whether the coupon was accepted, rejected, or subject to an unmet condition.
+15. Invalid Coupon
+A coupon may be rejected because:
+ It has expired.
+ 
+ It has not started yet.
+ 
+ The order value is too low.
+ 
+ Products are not eligible.
+ 
+ The customer is not eligible.
+ 
+ The coupon has already reached its usage limit.
+ 
+ Another promotion is incompatible.
+ 
+ The code was entered incorrectly.
+ 
+ The required payment method is not selected.
+ 
+The assistant should explain the likely reason without inventing a reason when system information is unavailable.
+16. Coupon Code Typing Errors
+Customers should verify spelling, spaces, capitalization where applicable, and the complete coupon code.
+The assistant may suggest re-entering the code or copying it from the official promotional source.
+17. Expired Coupon
+An expired coupon normally cannot be applied after the stated validity period.
+The assistant should not promise an extension or replacement unless an authorized system or human agent
+confirms that an exception is available.
+18. Coupon Usage Limits
+Promotions may have limits such as:
+
+ One use per customer.
+ 
+ One use per account.
+ 
+ Limited total redemptions.
+ 
+ Limited uses per campaign.
+ 
+ Limited quantity of promotional inventory.
+ 
+Once a published usage limit is reached, the coupon may no longer be available.
+19. Fraud and Promotional Abuse
+Customers must not misuse coupons by creating accounts, manipulating orders, or using unauthorized methods
+solely to obtain promotional benefits.
+NovaCart may restrict promotional benefits or investigate suspicious activity where abuse is suspected.
+20. Coupon and Cancellation
+If an order using a coupon is cancelled, the treatment of the coupon depends on the specific promotion and
+applicable cancellation terms.
+A cancelled order does not automatically guarantee that the coupon will be restored. The assistant should avoid
+promising coupon reactivation without verified policy or system information.
+21. Coupon and Refund
+When an order containing a promotional discount is refunded, the refund amount should follow the applicable
+Refund Policy and the promotional terms.
+The assistant should not calculate or guarantee a refund amount when the required order information is unavailable.
+22. Coupon and Return
+If a customer returns one item from a multi-item order that received a promotional discount, the refund or adjustment
+may be affected by the discount structure.
+The applicable Return and Refund Policies, along with the individual offer terms, should be used to determine the
+correct outcome.
+23. Free Shipping Offers
+Some promotions may provide free or reduced shipping.
+Free-shipping offers may have minimum order values, location restrictions, product restrictions, or validity periods.
+The specific offer terms determine eligibility.
+24. Personalized Offers
+Some discounts may be assigned to a particular customer account and may not be transferable.
+A customer should not assume that a personalized coupon can be shared with another account.
+25. Price and Discount Display
+The checkout should show the applicable discount before order completion whenever the promotion is successfully
+applied.
+
+Customers should review the final order summary before completing payment. If the expected discount is missing,
+the customer should resolve the issue before placing the order when possible.
+26. AI Assistant Rules
+The Autonomous Customer Support Copilot should:
+ Use the approved Coupon & Discount Policy.
+ 
+ Clearly state conditions.
+ 
+ Never invent a coupon code.
+ 
+ Never promise an expired coupon will work.
+ 
+ Never guarantee an exception without authorization.
+ 
+ Distinguish between a valid coupon and an eligible coupon.
+ 
+ Ask for the coupon code or relevant offer details when necessary.
+ 
+ Escalate disputed promotional issues when verification is required.
+ 
+27. When a Ticket Is Needed
+A simple question such as “Do you have any coupon rules?” can be answered directly without a ticket.
+A ticket may be appropriate when:
+ A valid coupon was accepted but the discount was calculated incorrectly.
+ 
+ A promotional discount disappeared after payment.
+ 
+ The customer disputes an offer eligibility decision.
+ 
+ A campaign appears to have been applied incorrectly.
+ 
+ A system issue prevents an eligible coupon from being used.
+ 
+ A manual promotional exception requires authorized review.
+ 
+28. Examples
+Example 1 — General question:
+Customer: “Can I use a coupon?”
+Expected handling: Explain that coupons are subject to their individual terms. No ticket.
+Example 2 — Two coupons:
+Customer: “Can I use two coupon codes together?”
+Expected handling: Explain that the standard rule is one promotional coupon per order unless the specific campaign
+permits stacking.
+Example 3 — Expired coupon:
+Customer: “My coupon expired yesterday. Can you extend it?”
+Expected handling: Do not promise an extension. Explain that expired coupons normally cannot be used unless an
+authorized exception is confirmed.
+Example 4 — Coupon rejected:
+Customer: “My coupon isn't working.”
+
+Expected handling: Ask for the coupon code and relevant cart/offer information or explain common eligibility
+conditions. Create a ticket if system verification or investigation is required.
+Example 5 — Incorrect discount:
+Customer: “The coupon was accepted but the discount amount is wrong.”
+Expected handling: Treat as a promotional/order issue requiring verification; create a ticket when investigation is
+necessary.
+29. Policy Authority
+This document is the authoritative Coupon & Discount source for the NovaCart customer-support knowledge base.
+For questions involving refunds, returns, cancellation, payment, or general legal terms, the assistant should retrieve
+the relevant specialized policy as well.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

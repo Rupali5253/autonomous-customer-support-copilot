@@ -1,0 +1,224 @@
+NovaCart
+ Refund Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Refund eligibility, processing and customer support
+Applies To
+NovaCart customers with eligible payment or order issues
+Supported Region
+India
+Support Email
+support@novacart.example
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+1. Purpose
+This Refund Policy explains when a NovaCart customer may be eligible for a refund, how refund requests are
+reviewed, how approved refunds are processed, and how customers should contact support when a refund is
+delayed or disputed.
+The policy is intended to provide consistent guidance to customers and the Autonomous Customer Support Copilot.
+Refund decisions may depend on the order status, payment status, product conditions, cancellation or return
+eligibility, and the information available in NovaCart systems.
+2. When a Refund May Be Considered
+A refund may be considered in situations such as:
+ Payment was successfully deducted but a valid order was not created or confirmed.
+ 
+ An eligible order was cancelled before fulfillment.
+ 
+ An eligible returned product was received and approved for refund.
+ 
+ NovaCart was unable to fulfill an order after payment was captured.
+ 
+ A confirmed duplicate payment was identified.
+ 
+ A support or operations process authorizes a refund under an applicable policy.
+ 
+Refund eligibility is not automatic merely because a customer requests a refund. The order and payment information
+must be reviewed according to the applicable policy.
+3. Refund Eligibility
+Eligibility depends on the reason for the refund and the condition or status of the order.
+For an order-related refund, support may verify:
+ Order number and order status.
+ 
+ Whether the item was delivered, cancelled, returned, or undeliverable.
+ 
+ Whether the product is eligible under the applicable return policy.
+ 
+ Whether the payment was successfully captured.
+ 
+ Whether a refund has already been initiated.
+ 
+If the available information does not establish eligibility, the case may require human review.
+4. Payment Deducted but Order Not Confirmed
+If a customer's payment was deducted but NovaCart did not confirm the order, the case should first be checked
+against the payment and order records.
+The customer should provide the transaction/reference ID, payment amount, approximate transaction time, and
+available receipt or confirmation.
+If the payment is confirmed as captured but no valid order can be fulfilled or confirmed, the case may be eligible for
+a refund. The customer should not be promised an immediate refund before payment verification is completed.
+5. Failed Payment With a Deduction
+If the checkout shows a failed payment but the customer's bank or payment provider shows a deduction, the
+transaction may still be pending, reversed, or successfully captured.
+Support should verify the transaction status before deciding the next action. If the amount is later reversed
+automatically, a separate refund may not be required. If the amount is confirmed as captured without a
+corresponding order, the case can be handled under the payment-deduction-without-order process.
+6. Duplicate Payments
+If a customer reports being charged twice, NovaCart should verify each transaction independently.
+Possible outcomes include:
+ One payment succeeded and another transaction is pending.
+ 
+ One transaction was reversed or released by the payment provider.
+ 
+ Both transactions were successfully captured.
+ 
+A refund may be initiated for a confirmed duplicate successful payment after verification. Customers should provide
+the relevant transaction references whenever possible.
+7. Return-Related Refunds
+When a refund is requested because a product is returned, the return must first satisfy the applicable Return Policy
+requirements.
+Depending on the product and reason for return, the product may need to be received and inspected before a
+refund is approved. A refund should not be represented as approved until the required return review has been
+completed.
+Product-specific return exclusions and conditions are maintained in the Return Policy.
+8. Cancellation-Related Refunds
+If an eligible prepaid order is cancelled, the payment may be refunded after the cancellation is successfully recorded
+and the payment status is verified.
+Orders that have already entered shipment or another fulfillment stage may have different cancellation and refund
+conditions. Customers should refer to the Cancellation Policy and order status for the applicable process.
+9. Refund Methods
+
+Where possible, an approved refund is returned through the original payment method or the payment channel
+associated with the transaction.
+The exact refund route may depend on the payment method, transaction status, and payment provider.
+Cash-equivalent or alternative refund arrangements should not be promised unless an authorized NovaCart process
+supports them.
+10. Refund Processing Stages
+A refund-related case may move through the following stages:
+1. Customer reports the issue.
+2. Support identifies the order and payment.
+3. Eligibility and transaction status are verified.
+4. Refund is approved when applicable.
+5. Refund is initiated through the appropriate process.
+6. Payment provider processes the transaction.
+7. Refund status is communicated or updated.
+8. Case is closed after successful resolution or appropriate escalation.
+The time taken after initiation may depend on the payment provider and banking system.
+11. Refund Timeline Guidance
+Refund processing does not necessarily mean that the amount will appear immediately in the customer's account.
+Customers should distinguish between:
+ Refund approved — NovaCart has determined that the case qualifies.
+ 
+ Refund initiated — the refund process has been submitted.
+ 
+ Refund completed — the payment provider has completed the return of funds.
+ 
+If a refund has been initiated but the customer does not see the amount after the expected processing period, the
+customer should contact support with the refund or transaction reference.
+12. Refund Exceptions
+A refund may be declined, delayed, or require additional investigation when:
+ The order or payment cannot be verified.
+ 
+ The customer has already received a refund for the same transaction.
+ 
+ The requested refund does not meet the applicable return or cancellation conditions.
+ 
+ The payment was never successfully captured.
+ 
+ The transaction is still pending with the payment provider.
+ 
+ The case involves suspected fraud or unauthorized activity.
+ 
+ Required information is missing.
+ 
+The AI assistant must not invent an exception or make a final refund decision when the policy does not provide
+enough information.
+
+13. Unauthorized or Suspicious Transactions
+If a customer reports a payment they do not recognize, support should treat the case as a security-sensitive issue.
+Customers should contact their bank or payment provider promptly and should not share passwords, OTPs, card
+PINs, UPI PINs, or other authentication credentials with NovaCart support.
+The support case may be escalated for account and transaction review. The AI assistant should avoid claiming that
+an unauthorized transaction has been refunded unless an authorized system confirms the action.
+14. Information Required for Refund Support
+Support may request non-sensitive information such as:
+ Order number.
+ 
+ Transaction/reference ID.
+ 
+ Payment amount.
+ 
+ Payment date and approximate time.
+ 
+ Payment method.
+ 
+ Reason for the refund request.
+ 
+ Return information, when relevant.
+ 
+ Refund reference, if a refund was already initiated.
+ 
+Customers should never provide passwords, PINs, OTPs, or full confidential payment credentials.
+15. Refund Ticket and Escalation
+A simple question such as “How long does a refund normally take?” can generally be answered using the approved
+knowledge base.
+A ticket or escalation may be required when:
+ A payment was deducted but no order was created.
+ 
+ A duplicate successful payment must be investigated.
+ 
+ A refund was approved but remains unresolved.
+ 
+ A return inspection is disputed.
+ 
+ The transaction status cannot be verified automatically.
+ 
+ The customer disputes the refund decision.
+ 
+ The issue requires access to internal payment or order records.
+ 
+The Copilot should create or escalate a ticket when human investigation is required.
+16. Customer Communication Rules
+Support responses should clearly distinguish between eligibility, approval, initiation, and completion.
+Preferred guidance:
+ Do not say “your refund is completed” unless completion is verified.
+ 
+ Do not promise a specific refund date unless supported by the applicable policy or transaction status.
+ 
+ Explain what information the customer needs to provide.
+ 
+ Give the customer a clear next step.
+ 
+ Escalate unresolved transaction-specific issues rather than guessing.
+ 
+17. Examples
+Example 1 — Refund status:
+Customer: “My refund was approved. When will I receive it?”
+Expected handling: Explain that approval and receipt are different stages and that the timing can depend on the
+payment provider.
+Example 2 — Payment deducted, no order:
+Customer: “My money was deducted but I did not get an order.”
+Expected handling: Ask for transaction details, verify the payment/order status, and escalate when transaction
+investigation is required.
+Example 3 — Duplicate charge:
+Customer: “I paid twice for one order.”
+Expected handling: Request the relevant transaction references and verify whether both payments were captured
+before initiating a refund.
+Example 4 — General refund question:
+Customer: “Can I get a refund for an eligible cancelled order?”
+Expected handling: Explain the applicable cancellation/refund process without claiming that a refund has already
+been approved.
+18. Relationship With Other Policies
+This Refund Policy works together with NovaCart's Payment Policy, Return Policy, Cancellation Policy, and
+Customer Support Policy.
+The Payment Policy explains payment verification and payment failures. The Return Policy determines return
+eligibility. The Cancellation Policy determines cancellation conditions. This document governs the refund handling
+process after eligibility is established.
+19. Policy Authority
+This document is the authoritative refund-policy source for the NovaCart customer-support knowledge base. The
+Autonomous Customer Support Copilot should retrieve and use this policy when answering refund-related
+questions.
+If the available documentation does not provide enough information to determine a customer's specific refund
+outcome, the AI assistant should request appropriate non-sensitive information and escalate the issue rather than
+inventing a decision.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

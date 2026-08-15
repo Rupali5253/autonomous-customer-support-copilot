@@ -1,0 +1,195 @@
+NovaCart
+ Cancellation Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Order cancellation and cancellation-related support
+Applies To
+NovaCart customer orders
+General Cancellation Window
+Before the order enters a non-cancellable fulfillment or shipment stage
+Supported Region
+India
+Support Email
+support@novacart.example
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+1. Purpose
+This Cancellation Policy explains when a NovaCart customer may cancel an order, how cancellation eligibility
+depends on order status, what happens to prepaid and Cash on Delivery orders, and how cancellation-related
+refunds are handled.
+The policy is intended to provide consistent guidance to customers and the Autonomous Customer Support Copilot.
+A cancellation request does not guarantee that an order can be cancelled; the current fulfillment stage must be
+checked.
+2. General Cancellation Rule
+Customers may generally request cancellation while the order remains in a cancellable stage.
+Once an order has entered a non-cancellable fulfillment stage, such as shipment handover, cancellation may no
+longer be available through the normal process. In such cases, the customer may need to use the applicable return
+or delivery-resolution process after the order reaches the customer.
+The exact cancellation option shown to a customer should be based on the current order status.
+3. Order Status and Cancellation
+Cancellation eligibility can depend on the following stages:
+ Order placed — cancellation is generally available if the system allows it.
+ 
+ Payment processing — cancellation may depend on whether the payment has been captured and whether the
+ order can still be stopped.
+ Order confirmed — cancellation may remain available before fulfillment progresses.
+ 
+ Processing/packing — cancellation may be limited depending on fulfillment status.
+ 
+ Shipped — normal cancellation may no longer be available.
+ 
+ Out for delivery — cancellation is generally not available through the standard cancellation flow.
+ 
+ Delivered — cancellation is no longer applicable; an eligible return process may apply instead.
+ 
+4. How to Request Cancellation
+Customers should use the cancellation option associated with the order when it is available.
+A typical process is:
+1. Open the customer account.
+2. Open the relevant order.
+3. Select the cancellation option.
+4. Select an available cancellation reason.
+5. Confirm the cancellation request.
+6. Check the order status for confirmation.
+If the cancellation option is not available, the customer should not assume that support can cancel the order
+manually. Support should first verify the current order stage.
+5. Cancellation Before Fulfillment
+If a customer requests cancellation before the order enters a non-cancellable stage, NovaCart may stop further
+processing and record the order as cancelled.
+For prepaid orders, any eligible refund is handled according to the Refund Policy after the payment and cancellation
+status are verified.
+For COD orders, cancellation normally means that no payment needs to be collected for the cancelled order, subject
+to the actual order status.
+6. Cancellation During Processing
+Orders that are being packed or prepared may have limited cancellation availability because fulfillment activities
+may already have started.
+If the system still allows cancellation, the customer can follow the normal cancellation process. If cancellation is no
+longer available, support should explain that the order has progressed beyond the standard cancellation stage and
+provide the appropriate next step.
+7. Cancellation After Shipment
+Once an order has been handed over for shipment, standard cancellation may no longer be available.
+Customers should not be promised that a shipped order can be cancelled. Depending on the order and product
+conditions, the customer may need to receive the product and then request an eligible return under the Return
+Policy.
+Any prepaid amount should be handled according to the applicable payment, return, and refund rules.
+8. Cancellation for Cash on Delivery Orders
+For eligible COD orders, cancellation before delivery generally prevents the payment from being collected.
+If the COD order has already entered a non-cancellable delivery stage, the customer should follow the applicable
+delivery or return instructions rather than assuming that cancellation is still possible.
+Support should check the order status before confirming any cancellation.
+9. Cancellation for Prepaid Orders
+
+For prepaid orders, cancellation can involve a refund when the order is successfully cancelled and payment has
+been captured.
+Support should distinguish between:
+ Cancellation requested — customer has asked to cancel.
+ 
+ Cancellation confirmed — NovaCart has successfully cancelled the order.
+ 
+ Refund initiated — an eligible refund process has been started.
+ 
+ Refund completed — the payment provider has completed the refund.
+ 
+The AI assistant should not tell a customer that money has been refunded unless the refund status is confirmed.
+10. Cancellation Because of Customer Error
+If a customer accidentally ordered the wrong product, quantity, size, or address, the customer should request
+cancellation as soon as possible.
+Cancellation is subject to the current order stage. If cancellation is no longer available, the customer may need to
+use the applicable return process after delivery, provided the product qualifies for return.
+11. Cancellation Due to Duplicate Order
+If a customer accidentally places the same order more than once, the customer should identify the duplicate order
+as soon as possible.
+Support should verify the order numbers and current statuses. If one order can still be cancelled, the normal
+cancellation process should be followed. Any eligible refund for a prepaid cancelled order is handled according to
+the Refund Policy.
+12. Cancellation Due to NovaCart Fulfillment Issues
+NovaCart may cancel an order when it cannot fulfill the order due to circumstances such as inventory problems,
+operational restrictions, or other fulfillment issues.
+When NovaCart cancels a prepaid order, the applicable refund process should be initiated after payment
+verification. Customers should receive clear information about the cancellation and next steps.
+The AI assistant should not invent a specific reason for a company-initiated cancellation if the actual reason is not
+available in the retrieved information.
+13. Cancellation and Refund Relationship
+Cancellation and refund are separate events.
+A cancelled order does not necessarily mean that the refund has already been completed. For prepaid orders, the
+payment must be reviewed and an eligible refund may then be initiated.
+The Refund Policy defines refund processing and status terminology. The Payment Policy defines payment
+verification and payment-status handling.
+14. Cancellation Exceptions
+A cancellation request may require additional review when:
+ The order status is inconsistent across systems.
+ 
+ Payment was deducted but the order status is unresolved.
+ 
+ The order is already in shipment.
+ 
+ The customer disputes a cancellation outcome.
+ 
+ A company-initiated cancellation requires payment reconciliation.
+ 
+ The order involves a special product or restricted fulfillment condition.
+ 
+The AI assistant should escalate rather than guess when the available policy and order information do not establish
+the correct outcome.
+15. Cancellation Ticket and Escalation
+A general question such as “Can I cancel my order?” can normally be answered using the policy and current order
+status.
+A support ticket or human escalation may be appropriate when:
+ The cancellation button is unavailable but the customer believes the order is still cancellable.
+ 
+ The cancellation was confirmed but the refund is unresolved.
+ 
+ The order status is contradictory or unavailable.
+ 
+ A prepaid payment needs reconciliation.
+ 
+ A customer disputes a cancellation.
+ 
+ A company-initiated cancellation requires investigation.
+ 
+16. Information Required for Cancellation Support
+Support may request non-sensitive information such as:
+ Order number.
+ 
+ Product or order description.
+ 
+ Reason for cancellation.
+ 
+ Current order status, if visible to the customer.
+ 
+ Payment reference, when a prepaid payment issue is involved.
+ 
+Customers should not provide passwords, OTPs, PINs, or confidential payment credentials.
+17. Examples
+Example 1 — Early cancellation:
+Customer: “I just placed the order and want to cancel it.”
+Expected handling: Check whether the order is still cancellable and guide the customer through the cancellation
+process.
+Example 2 — Shipped order:
+Customer: “My order has shipped but I want to cancel it.”
+Expected handling: Explain that normal cancellation may no longer be available and provide the applicable
+return/delivery next step.
+Example 3 — Cancelled prepaid order:
+Customer: “My order was cancelled but I haven't received my money.”
+Expected handling: Distinguish cancellation from refund, verify the payment/refund status when available, and
+escalate if transaction investigation is required.
+
+Example 4 — COD cancellation:
+Customer: “I ordered something with Cash on Delivery and want to cancel.”
+Expected handling: Check the order stage. If cancellable, guide the customer through cancellation; if already in a
+non-cancellable delivery stage, explain the available next step.
+18. Relationship With Other Policies
+This Cancellation Policy works together with the Payment Policy, Refund Policy, Return Policy, and Product & Order
+Policy.
+The Cancellation Policy determines whether an order can be cancelled. The Payment Policy explains payment
+status. The Refund Policy explains eligible refunds after cancellation. The Return Policy applies when a delivered
+product needs to be returned.
+19. Policy Authority
+This document is the authoritative general cancellation-policy source for the NovaCart customer-support knowledge
+base.
+The Autonomous Customer Support Copilot should use the customer's current order status together with this policy
+when responding to cancellation questions. If the system cannot establish the order stage or payment status, the
+issue should be escalated rather than resolved by assumption.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

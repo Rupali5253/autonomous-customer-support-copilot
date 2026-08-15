@@ -1,0 +1,262 @@
+NovaCart
+ Return Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Product returns and return-related customer support
+Applies To
+Eligible NovaCart orders and products
+Return Request Window
+Within 7 calendar days of delivery, unless a product-specific policy states otherwise
+Supported Region
+India
+Support Email
+support@novacart.example
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+1. Purpose
+This Return Policy explains when a NovaCart customer can request a product return, the basic conditions for
+eligibility, how a return request is submitted, how returned products are reviewed, and what happens after the return
+is approved.
+The policy is designed to provide consistent customer guidance and to serve as an approved knowledge source for
+the Autonomous Customer Support Copilot.
+2. Standard Return Window
+Eligible products may generally be requested for return within 7 calendar days from the date of delivery, unless the
+product listing or a product-specific policy provides a different return period.
+The return window is calculated from the recorded delivery date. A customer should submit the return request within
+the applicable period.
+Submitting a request after the applicable window does not automatically qualify the product for return. Exceptions
+require appropriate review and authorization.
+3. Basic Return Eligibility
+A product may be eligible for return when:
+ The product falls within an eligible product category.
+ 
+ The request is submitted within the applicable return period.
+ 
+ The product condition meets the return requirements.
+ 
+ Required accessories, manuals, tags, or packaging are available where applicable.
+ 
+ The return reason is supported by the applicable product policy.
+ 
+Eligibility can vary by product type. The product's specific return conditions take precedence when they are more
+restrictive or specific than this general policy.
+
+4. Common Valid Return Reasons
+Eligible return requests may include:
+ Product received damaged.
+ 
+ Wrong product received.
+ 
+ Product differs materially from the ordered item.
+ 
+ Product is defective or not functioning as expected.
+ 
+ Eligible change-of-mind return where the product category permits it.
+ 
+ Other reasons explicitly covered by the product's return conditions.
+ 
+5. Damaged Product
+If a customer receives a visibly damaged product, the customer should report the issue as soon as reasonably
+possible.
+The customer may be asked to provide:
+ Order number.
+ 
+ Description of the damage.
+ 
+ Photographs of the product and packaging.
+ 
+ Relevant delivery information.
+ 
+The support team may use the submitted evidence to determine the appropriate next step. The customer should
+retain the original product and packaging until the return process is completed or support provides further
+instructions.
+6. Wrong or Incorrect Product
+If the customer receives a product different from the item ordered, the customer should contact support and provide
+the order details.
+The customer may be asked for photographs showing the received product, packaging, labels, or other identifying
+information. The item should not be materially altered or used beyond what is reasonably necessary to identify the
+issue.
+After verification, NovaCart may arrange an eligible return and replacement or refund according to the applicable
+process.
+7. Defective or Non-Functional Product
+A customer who receives a defective product should describe the issue and provide relevant evidence when
+requested.
+Depending on the product category, support may first provide troubleshooting guidance. If the issue cannot be
+resolved or the product qualifies for return, NovaCart may arrange the next step under the applicable return process.
+Some electronic or technical products may require additional verification before a return is approved.
+8. Change-of-Mind Returns
+Some products may qualify for a change-of-mind return when the customer simply no longer wants the product.
+Such returns are subject to product-category restrictions and condition requirements.
+
+A change-of-mind return may be rejected when the product category is excluded, the return period has expired, or
+the product no longer meets the required condition.
+9. Product Condition Requirements
+Unless a specific product policy states otherwise, returned products should generally be:
+ Unused or in an acceptable condition for the applicable return reason.
+ 
+ Free from avoidable damage caused after delivery.
+ 
+ Accompanied by required accessories and components.
+ 
+ Accompanied by tags, manuals, or packaging where applicable.
+ 
+ Packed appropriately for safe return transportation.
+ 
+Missing components or customer-caused damage may affect return eligibility or the final resolution.
+10. Non-Returnable or Restricted Items
+Certain products may be non-returnable or subject to additional restrictions because of hygiene, safety,
+personalization, perishability, software licensing, or other operational considerations.
+Examples may include:
+ Certain personal-care or hygiene products after opening.
+ 
+ Perishable or consumable goods.
+ 
+ Personalized or customized products.
+ 
+ Digital products or licenses after activation.
+ 
+ Products specifically marked as non-returnable.
+ 
+The product listing or applicable category policy should be consulted for the definitive restriction.
+11. Return Request Process
+A typical return process is:
+1. Customer opens the order details.
+2. Customer selects the eligible return option.
+3. Customer selects or describes the return reason.
+4. Customer provides required information or evidence.
+5. NovaCart reviews the request.
+6. If approved, return instructions are provided.
+7. Product is handed over through the supported return method.
+8. NovaCart or the designated return process receives the product.
+9. The product may be inspected when required.
+10. The final resolution is communicated to the customer.
+12. Return Pickup
+Where return pickup is supported, NovaCart may arrange a pickup from the delivery address associated with the
+order.
+
+Pickup availability can depend on location, product type, delivery partner coverage, and operational conditions.
+Customers should package the product according to the provided instructions and make it available during the
+scheduled pickup window.
+A failed pickup may require rescheduling or additional support.
+13. Self-Ship Returns
+For selected products or locations, NovaCart may provide a self-shipping return option. Customers should use only
+the return instructions supplied by NovaCart.
+Customers should retain shipping or courier evidence until the return is confirmed. NovaCart should not promise
+reimbursement of self-shipping costs unless the applicable policy or support process explicitly allows it.
+14. Return Inspection
+Returned products may be inspected when necessary to verify the reported issue and eligibility.
+Inspection may consider:
+ Product identity.
+ 
+ Physical condition.
+ 
+ Reported defect or damage.
+ 
+ Accessories and components.
+ 
+ Signs of misuse or avoidable damage.
+ 
+ Whether the returned item matches the order.
+ 
+A return request is not necessarily equivalent to a completed refund. The final resolution depends on the outcome of
+the applicable review.
+15. Return Approval and Rejection
+If a return satisfies the applicable requirements, NovaCart may approve the return and proceed with the relevant
+replacement or refund process.
+A return may be rejected when:
+ The request is outside the applicable return window.
+ 
+ The product is non-returnable.
+ 
+ The product condition does not meet the requirements.
+ 
+ The returned item does not match the order.
+ 
+ Required components are missing where they are necessary for eligibility.
+ 
+ Evidence or verification does not support the reported issue.
+ 
+When a return is rejected, support should explain the applicable reason without inventing a reason that is not
+supported by the policy.
+16. Replacement or Refund
+Depending on the product, inventory availability, return reason, and applicable policy, an approved return may result
+in a replacement or refund.
+A replacement is subject to product availability. If a replacement is not available or the applicable process calls for a
+refund, the case should be handled under the Refund Policy.
+
+The AI assistant should not promise a specific replacement or refund until eligibility and the applicable resolution
+have been confirmed.
+17. Return Shipping and Costs
+For eligible damaged, defective, or incorrect-product cases, NovaCart may arrange an appropriate return method
+according to its operational process.
+For customer-initiated returns such as eligible change-of-mind requests, return-cost responsibility may depend on
+the product category and applicable return conditions.
+The support system should not promise free return shipping unless the relevant policy or order process confirms
+that the customer qualifies.
+18. Return Ticket and Escalation
+A general question such as “How do I return an eligible product?” can normally be answered using the knowledge
+base without creating a ticket.
+A ticket or human escalation may be required when:
+ The return request cannot be verified automatically.
+ 
+ A customer disputes return eligibility.
+ 
+ A returned product is reported as damaged during transit.
+ 
+ Inspection results are disputed.
+ 
+ The wrong product was received and verification is required.
+ 
+ A return pickup repeatedly fails.
+ 
+ A return requires access to internal order or logistics records.
+ 
+19. Information Required for Return Support
+Support may request non-sensitive information such as:
+ Order number.
+ 
+ Product name or identifier.
+ 
+ Return reason.
+ 
+ Delivery date.
+ 
+ Description of the issue.
+ 
+ Photographs or other relevant evidence.
+ 
+ Pickup or return reference, if already created.
+ 
+Customers should not provide passwords, OTPs, PINs, or confidential payment credentials.
+20. Examples
+Example 1 — General return question:
+Customer: “How can I return my product?”
+Expected handling: Explain the return process and eligibility requirements. No ticket is normally required.
+Example 2 — Wrong product:
+
+Customer: “I ordered a black bag but received a blue one.”
+Expected handling: Classify as an incorrect-product issue, request order details and appropriate evidence, and
+create/escalate a ticket if verification is required.
+Example 3 — Damaged item:
+Customer: “My product arrived damaged.”
+Expected handling: Ask for the order details and relevant photographs, explain the return process, and escalate
+when inspection or logistics verification is required.
+Example 4 — Expired return window:
+Customer: “I received the product several weeks ago. Can I return it?”
+Expected handling: Explain the standard return window and check whether a product-specific exception applies. Do
+not promise an exception.
+21. Relationship With Other Policies
+This Return Policy works together with the Product & Order Policy, Refund Policy, Cancellation Policy, and
+Customer Support Policy.
+The Return Policy determines return eligibility and the return process. The Refund Policy explains how an approved
+refund is handled. The Cancellation Policy applies when the customer wants to cancel an order before or during
+fulfillment.
+22. Policy Authority
+This document is the authoritative general return-policy source for the NovaCart customer-support knowledge base.
+Product-specific terms may impose additional restrictions or different eligibility periods.
+The Autonomous Customer Support Copilot should retrieve the most relevant policy before answering a return
+question. If the available information is insufficient to determine a customer's specific eligibility, the AI should ask for
+appropriate non-sensitive information or escalate the case instead of guessing.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

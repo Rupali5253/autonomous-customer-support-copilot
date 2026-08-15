@@ -1,0 +1,247 @@
+NovaCart
+ Shipping & Delivery Policy
+Document Type: Customer & Support Knowledge Base Policy
+Version: 1.0
+Status: Active for Autonomous Customer Support Copilot Demo
+Policy Area
+Shipping, delivery and shipment-related customer support
+Standard Delivery Guidance
+Estimated dates are shown during checkout and in order tracking
+Supported Region
+India
+Tracking
+Available for eligible shipped orders
+Support Email
+support@novacart.example
+Support Hours
+Monday–Sunday, 9:00 AM–9:00 PM IST
+1. Purpose
+This Shipping & Delivery Policy explains how NovaCart orders are prepared, shipped, tracked, and delivered. It also
+provides guidance for common delivery problems such as delays, failed delivery attempts, incorrect addresses,
+damaged shipments, and missing packages.
+The policy is intended to provide consistent customer guidance and serve as an approved knowledge source for the
+Autonomous Customer Support Copilot.
+2. Delivery Estimates
+NovaCart displays an estimated delivery date or delivery window during checkout and, where available, in the
+customer's order details.
+Delivery estimates are not guaranteed unless a specific service explicitly provides a guaranteed delivery
+commitment. Actual delivery can be affected by inventory processing, logistics conditions, weather, holidays,
+operational disruptions, or the customer's location.
+3. Order Processing Before Shipment
+After an order is placed, NovaCart may perform payment verification, inventory confirmation, order processing,
+packing, and shipment preparation.
+The order status may progress through stages such as:
+ Order placed.
+ 
+ Payment processing or confirmed.
+ 
+ Order confirmed.
+ 
+ Processing or packing.
+ 
+ Shipped.
+ 
+ Out for delivery.
+ 
+ Delivered.
+ 
+Customers should use the latest order status as the primary indicator of the current fulfillment stage.
+4. Shipping and Dispatch
+An order is considered shipped when it has been handed over to the designated logistics or delivery partner and a
+shipment record is created.
+After shipment, tracking information may become available. There can be a short delay between physical handover
+and the appearance of the first tracking event.
+The AI assistant should not claim that an order has shipped unless the order system or available tracking
+information confirms the shipment status.
+5. Order Tracking
+Eligible shipped orders may include a tracking reference and tracking status.
+Customers can generally check tracking through their account or the order details page. Common tracking states
+may include:
+ Shipment created.
+ 
+ Picked up.
+ 
+ In transit.
+ 
+ Arrived at delivery facility.
+ 
+ Out for delivery.
+ 
+ Delivery attempted.
+ 
+ Delivered.
+ 
+Tracking events may not update continuously. A period without a new scan does not automatically mean that a
+package is lost.
+6. Delayed Delivery
+A delivery is considered delayed when it has not arrived within the applicable estimated delivery window or when
+tracking indicates an unexpected logistics delay.
+Possible causes include:
+ Transportation disruption.
+ 
+ Weather or local conditions.
+ 
+ High shipment volume.
+ 
+ Address or access issues.
+ 
+ Delivery-partner operational delays.
+ 
+ Inventory or dispatch delays.
+ 
+ Other unforeseen events.
+ 
+Support should review the latest order and tracking status before giving a customer a specific explanation.
+7. Delivery Date Passed
+If the estimated delivery date has passed, the customer should first check the latest tracking status.
+
+If tracking shows that the shipment is still moving, support may provide the latest available information and explain
+that the delivery is delayed.
+If there is no meaningful tracking progress or the shipment appears stuck, the issue may require a delivery
+investigation and human escalation.
+8. Failed Delivery Attempt
+A delivery attempt may fail because the customer was unavailable, the address could not be located, access was
+restricted, the phone number could not be reached, or another delivery condition prevented completion.
+Where supported, another delivery attempt may be scheduled. Customers should ensure that the delivery address
+and contact details are correct and that someone is available when required.
+9. Incorrect or Incomplete Address
+Customers should verify the delivery address before placing an order.
+If an address is incorrect after an order is placed, the ability to change it depends on the order's current fulfillment
+stage. Address changes may not be possible after shipment.
+The AI assistant should not promise an address change without checking the current order status and supported
+process.
+10. Delivery to the Wrong Address
+If a customer believes a package was delivered to an incorrect location, support should verify the delivery record
+and available proof of delivery.
+The customer may be asked for the order number and relevant delivery details. The issue may require investigation
+by the delivery partner or NovaCart operations team.
+The AI assistant should not claim that a package is lost or delivered incorrectly without evidence.
+11. Package Marked Delivered but Not Received
+If tracking shows “delivered” but the customer cannot locate the package, the customer should first check whether:
+ Another household member received it.
+ 
+ A building reception or security desk accepted it.
+ 
+ The delivery partner left it at an approved location.
+ 
+ The delivery record contains additional information.
+ 
+If the package still cannot be located, the customer should contact support for a delivery investigation. A ticket may
+be created when delivery verification is required.
+12. Damaged Shipment
+Customers should report shipping damage as soon as reasonably possible.
+Support may request:
+ Order number.
+ 
+ Description of the damage.
+ 
+ Photographs of the package and product.
+ 
+ Delivery information.
+ 
+Customers should retain the packaging and product until support provides further instructions. Depending on the
+circumstances, the case may be handled under the Return Policy or Refund Policy.
+13. Lost Shipment
+A shipment may require investigation when tracking indicates that it has been lost, remains inactive for an unusually
+long period, or the delivery partner cannot confirm its location.
+Support should verify the tracking history before classifying a package as lost. A confirmed lost-shipment case may
+require human escalation and coordination with the delivery partner.
+The AI assistant should not promise a refund or replacement before the applicable investigation is completed.
+14. Delivery Attempt and Customer Availability
+Customers should ensure that someone is available to receive deliveries when required.
+If a delivery attempt fails because the recipient is unavailable, another attempt may be made where the delivery
+service supports it. Repeated failed attempts may result in the shipment being returned to the sender.
+Customers should follow any instructions shown in the tracking information or delivery communication.
+15. Delivery Restrictions
+Certain products, addresses, buildings, or locations may have delivery restrictions.
+Delivery availability can depend on:
+ Product category.
+ 
+ Delivery location.
+ 
+ Logistics coverage.
+ 
+ Local restrictions.
+ 
+ Operational conditions.
+ 
+ Seller or fulfillment requirements.
+ 
+The delivery options displayed during checkout should be treated as the current availability for the order.
+16. Delivery Charges
+Any applicable delivery or shipping charge should be displayed during checkout before the customer confirms the
+order.
+Delivery charges may vary based on product, order value, delivery location, fulfillment method, promotions, or other
+applicable conditions.
+The AI assistant should not invent a delivery fee when the actual order information is not available.
+17. Delivery and Cancellation
+Once an order enters shipment or a non-cancellable fulfillment stage, standard cancellation may no longer be
+available.
+Customers who no longer want a shipped order may need to use the applicable return process after delivery,
+provided the product is eligible.
+The Cancellation Policy defines cancellation rules, while this document covers shipment and delivery handling.
+
+18. Delivery and Returns
+If a delivered product is damaged, incorrect, defective, or otherwise eligible for return, the customer may use the
+Return Policy.
+Delivery-related evidence such as photographs, tracking information, and delivery records may be relevant to the
+return investigation.
+The AI assistant should connect the customer to the appropriate return process instead of creating an unrelated
+delivery resolution.
+19. Delivery Ticket and Escalation
+A general question such as “Where can I track my order?” can normally be answered without creating a ticket.
+A ticket or human escalation may be appropriate when:
+ A package is marked delivered but cannot be located.
+ 
+ Tracking has stopped progressing and investigation is required.
+ 
+ A shipment is suspected to be lost.
+ 
+ A delivery was made to the wrong location.
+ 
+ A damaged shipment requires verification.
+ 
+ Repeated delivery attempts have failed.
+ 
+ The order or tracking information is inconsistent.
+ 
+20. Information Required for Delivery Support
+Support may request non-sensitive information such as:
+ Order number.
+ 
+ Tracking number, if available.
+ 
+ Delivery address confirmation at a non-sensitive level.
+ 
+ Description of the delivery issue.
+ 
+ Approximate expected delivery date.
+ 
+ Photographs for damage-related cases.
+ 
+Customers should not provide passwords, OTPs, PINs, or confidential payment credentials.
+21. Examples
+Example 1 — Tracking question:
+Customer: “Where is my order?”
+Expected handling: Ask for or use the order details, provide the latest available tracking status, and avoid inventing
+a delivery location.
+Example 2 — Delayed order:
+Customer: “My order was supposed to arrive yesterday.”
+Expected handling: Check the latest status, explain that the shipment is delayed if supported by tracking, and
+escalate if the shipment requires investigation.
+Example 3 — Delivered but missing:
+
+Customer: “Tracking says delivered but I don't have the package.”
+Expected handling: Ask the customer to check common delivery locations and then create/escalate a delivery
+investigation if the package remains missing.
+Example 4 — Wrong address:
+Customer: “I entered the wrong address.”
+Expected handling: Check the current fulfillment stage. If an address change is still supported, guide the customer;
+otherwise explain the available next step without promising a change.
+22. Policy Authority
+This document is the authoritative general shipping and delivery source for the NovaCart customer-support
+knowledge base.
+The Autonomous Customer Support Copilot should use the current order and tracking information together with this
+policy. If a delivery outcome cannot be established from available information, the AI assistant should clearly state
+the limitation and escalate the issue when human investigation is required.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.

@@ -1,0 +1,152 @@
+NovaCart
+ Terms & Conditions
+ General customer, platform, order and service terms
+Document Type
+Customer & Support Knowledge Base Policy
+Version
+1.0
+Status
+Active for Autonomous Customer Support Copilot Demo
+Supported Region
+India
+Support Email
+support@novacart.example
+1. Purpose and Acceptance
+These Terms and Conditions govern the general use of NovaCart services, the purchase of products, and
+interactions between NovaCart and its customers.
+By creating an account, browsing the platform, placing an order, or using NovaCart services, the customer agrees to
+follow the applicable terms. Product-specific terms, policies, and legally required notices may apply in addition to
+these general terms.
+2. Eligibility
+Customers must provide accurate information and use the service for lawful purposes. Where an account is
+required, the customer is responsible for maintaining the accuracy of account information.
+NovaCart may restrict or suspend access when required to protect customers, the platform, or the integrity of
+transactions.
+3. Account Responsibilities
+Customers are responsible for:
+ Providing accurate account and delivery information.
+ 
+ Keeping account credentials confidential.
+ 
+ Reviewing order details before confirmation.
+ 
+ Reporting suspicious or unauthorized account activity.
+ 
+ Using the platform only for lawful purposes.
+ 
+Customers should never share passwords, OTPs, PINs, or confidential authentication information with support
+agents or the AI assistant.
+4. Product Information
+NovaCart aims to provide accurate product descriptions, images, specifications, availability, and pricing. However,
+information may occasionally require correction or updating.
+The latest product listing and applicable order information should be treated as the primary source for a customer's
+purchase. If important information conflicts across sources, the issue should be reviewed rather than resolved by
+assumption.
+
+5. Pricing and Taxes
+The price presented during checkout is the applicable order price, subject to clearly displayed taxes, shipping
+charges, discounts, and other conditions.
+NovaCart may correct pricing or listing errors where appropriate. If a material pricing error affects an order, the
+customer may be contacted before fulfillment continues.
+6. Orders and Order Acceptance
+Submitting an order constitutes a request to purchase the selected products. An order becomes confirmed when
+NovaCart's systems successfully accept and record the order.
+NovaCart may decline or cancel an order in limited circumstances such as inventory unavailability, payment failure,
+suspected fraudulent activity, operational restrictions, or material listing errors.
+7. Payment Terms
+Customers must use an available and authorized payment method. Payment information is processed through
+supported payment providers and applicable security controls.
+A successful payment attempt does not by itself guarantee that an order has been confirmed. If money is deducted
+but an order is not confirmed, the payment/order reconciliation process should be followed.
+8. Shipping and Delivery
+Delivery estimates are provided according to available fulfillment and logistics information. Actual delivery may vary
+because of operational, transportation, weather, location, or other unforeseen conditions.
+The Shipping & Delivery Policy provides detailed rules for tracking, delays, failed delivery, damaged shipments, and
+missing packages.
+9. Cancellation
+Customers may request cancellation while the order remains in an eligible cancellable stage. Once an order
+reaches a non-cancellable fulfillment or shipment stage, standard cancellation may no longer be available.
+The NovaCart Cancellation Policy provides the detailed cancellation rules.
+10. Returns and Refunds
+Eligible returns and refunds are subject to the applicable product conditions and policies.
+The Return Policy defines return eligibility and process. The Refund Policy defines refund handling and status. A
+return or cancellation does not automatically mean that a refund has already been completed.
+11. Prohibited Use
+Customers must not use NovaCart services to:
+ Commit fraud or abuse.
+ 
+ Attempt unauthorized access.
+ 
+ Interfere with platform operations.
+ 
+ Submit intentionally false claims.
+ 
+ Abuse promotional programs.
+ 
+ Use another person's account without authorization.
+ 
+ Engage in unlawful activities.
+ 
+NovaCart may investigate and restrict activity that violates these requirements.
+12. Reviews and Customer Content
+Where NovaCart permits reviews, feedback, or other customer-submitted content, customers should provide honest
+and relevant information.
+Content must not contain unlawful material, threats, confidential information belonging to another person, or
+intentionally misleading claims. NovaCart may moderate content according to applicable platform rules.
+13. Promotions and Offers
+Promotional offers may have separate eligibility requirements, validity periods, product restrictions, usage limits, or
+payment-method conditions.
+Customers should review the specific offer terms. A promotion should not be treated as universally applicable to
+every product or customer.
+14. Privacy and Personal Information
+NovaCart should collect and process customer information only for legitimate service, order, support, security, and
+operational purposes in accordance with the applicable privacy notice.
+Customers should avoid sharing unnecessary sensitive information with support. The AI assistant must not request
+passwords, OTPs, PINs, or confidential payment credentials.
+15. Service Availability
+NovaCart aims to maintain reliable service but cannot guarantee uninterrupted availability. Temporary outages,
+maintenance, technical failures, third-party service interruptions, or other operational events may affect platform
+availability.
+Customers should retry later or contact support when a service issue prevents completion of an important
+transaction.
+16. Limitation of Automated Support
+The Autonomous Customer Support Copilot is intended to provide assistance based on approved NovaCart
+knowledge and available system information.
+The AI assistant should not invent policy exceptions, guarantees, refund confirmations, delivery commitments, or
+account decisions. When information is insufficient or an issue requires internal investigation, the assistant should
+escalate the case.
+17. Customer Support and Escalation
+General informational questions can normally be answered without creating a ticket.
+A ticket or human escalation may be appropriate for payment reconciliation, disputed refunds, complex returns,
+missing shipments, account-security concerns, contradictory order records, or other cases requiring internal
+verification.
+The Customer Support & Escalation Policy defines the detailed escalation rules.
+18. Changes to These Terms
+
+NovaCart may update these Terms and Conditions when business, operational, legal, or service requirements
+change.
+The latest published version should be used when answering customer questions. Historical orders may remain
+subject to terms applicable at the time of the transaction where required.
+19. Governing and Legal Requirements
+These fictional project terms are intended as a demonstration knowledge-base document and are not legal advice.
+Actual legal terms for a real company would need to be reviewed and approved by qualified legal professionals and
+adapted to applicable laws and jurisdictions.
+20. Examples
+Example 1 — Customer asks: “Do I have to agree to terms before ordering?”
+Expected handling: Explain that placing an order requires acceptance of the applicable terms and policies.
+Example 2 — Customer asks: “Can support ask me for my OTP?”
+Expected handling: No. The customer should never share OTPs, PINs, passwords, or confidential authentication
+information.
+Example 3 — Customer asks: “The product price changed after I ordered. Which price applies?”
+Expected handling: Explain that the confirmed order price is generally the relevant order price, subject to applicable
+terms and any documented pricing error.
+Example 4 — Customer asks: “Can AI guarantee my refund today?”
+Expected handling: No. The assistant should only provide a confirmed refund status when supported by system
+information and should avoid unsupported guarantees.
+21. Policy Authority
+This document is the authoritative general Terms & Conditions source for the NovaCart customer-support
+knowledge base.
+When a customer's question concerns a specific operational process, the assistant should retrieve the relevant
+specialized policy as well. These terms should not be used to override more specific approved policies without a
+valid reason.
+This document is fictional and created exclusively for the Autonomous Customer Support Copilot project.
