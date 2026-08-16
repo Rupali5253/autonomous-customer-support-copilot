@@ -24,6 +24,16 @@ The platform provides separate dashboards for **Customers, Support Agents, and M
 
 ---
 
+## 🚀 Live Demo
+
+Frontend: https://autonomous-customer-support-copilot.streamlit.app/
+
+Backend API: https://autonomous-customer-support-copilot-d3fg.onrender.com
+
+API Documentation: https://autonomous-customer-support-copilot-d3fg.onrender.com/docs
+
+---
+
 # ✨ Key Features
 
 ## 🤖 AI Customer Support
