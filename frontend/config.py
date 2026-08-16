@@ -2,7 +2,7 @@
 # FRONTEND CONFIGURATION
 # ==========================================
 
-BACKEND_URL ="https://autonomous-customer-support-copilot-d3fg.onrender.com/"
+BACKEND_URL ="https://autonomous-customer-support-copilot-d3fg.onrender.com/docs"
 
 CHAT_ENDPOINT = f"{BACKEND_URL}/chat/"
 LOGIN_ENDPOINT = f"{BACKEND_URL}/auth/login"
