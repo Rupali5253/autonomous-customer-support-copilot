@@ -293,16 +293,12 @@ with register_tab:
         else:
 
             try:
-                st.info("DEBUG: Register button is calling backend...")
 
                 response = register_user(
                     name,
                     email,
                     password
                 )
-                st.write("DEBUG STATUS:", response.status_code)
-                st.write("DEBUG URL:", response.url)
-                st.write("DEBUG RESPONSE:", response.text)
 
                 if response.status_code == 200:
 
