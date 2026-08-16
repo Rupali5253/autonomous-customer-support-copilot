@@ -306,7 +306,9 @@ with register_tab:
                         "Account created successfully! "
                         "You can now login."
                     )
-
+                    st.write("DEBUG STATUS:", response.status_code)
+                    st.write("DEBUG URL:", response.url)
+                    st.write("DEBUG RESPONSE:", response.text)
                 else:
 
                     try:
