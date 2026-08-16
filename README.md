@@ -285,7 +285,7 @@ AI / Knowledge Base Improvement
                                │
                                ▼
                     ┌──────────────────────┐
-                    │     PostgreSQL       │
+                    │    Neon PostgreSQL   │
                     │       Database       │
                     └──────────────────────┘
                                │
@@ -343,7 +343,7 @@ Vector Storage
 * Python
 * FastAPI
 * SQLAlchemy
-* PostgreSQL
+* Neon PostgreSQL
 * Pydantic
 * JWT Authentication
 
@@ -557,12 +557,7 @@ Create a `.env` file using `.env.example` as a template.
 Example:
 
 ```env
-DATABASE_HOST=localhost
-DATABASE_PORT=5432
-DATABASE_NAME=customer_support_db
-DATABASE_USER=postgres
-DATABASE_PASSWORD=your_password
-
+DATABASE_URL=postgresql://username:password@host:5432/database_name?sslmode=require
 SECRET_KEY=your_secret_key
 
 GEMINI_API_KEY=your_gemini_api_key
